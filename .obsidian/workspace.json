@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "83a806f03d01dee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b143e39cc8859f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e2d9d62a341308",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "96d1a9b847bfeb8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Creational Patterns/Factory Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce12b5a4d92677c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ad24c160fb1f977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "878c6fc02b7226ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#structuralPattern",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0788dfb1279fb525",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fc138b549785be0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b57652f4492ec689",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e29a5b55de06d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c054201341360526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design Patterns/Creational Patterns/Factory Method.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d99db3320a7639f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design Patterns/Creational Patterns/Factory Method.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53ab44e8596ef346",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49ce0c0d19dc5765",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design Patterns/Creational Patterns/Factory Method.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96d1a9b847bfeb8a",
+  "lastOpenFiles": [
+    "Design Patterns/Behavioral Patterns/Strategy.md",
+    "Design Patterns/Behavioral Patterns/Observer.md",
+    "Assets/Pasted image 20240525095054.png",
+    "Assets/Pasted image 20240525094338.png",
+    "Patterns.md",
+    "Design Patterns/Creational Patterns/Simple Factory.md",
+    "Design Patterns/Creational Patterns/Factory Method.md",
+    "Design Patterns/Creational Patterns/Dependency Injection.md",
+    "2024-05-25.md",
+    "Design Patterns/Structural Patterns/Facade.md",
+    "Design Patterns/Structural Patterns/Composite.md",
+    "Design Patterns/Structural Patterns/Adapter Pattern.md",
+    "Untitled Diagram.svg",
+    "Assets",
+    "Untitled.canvas",
+    "create a link.md",
+    "Design Patterns/Structural Patterns",
+    "Design Patterns/Behavioral Patterns",
+    "Design Patterns/Creational Patterns",
+    "Design Patterns",
+    "Table of Contents.md"
+  ]
+}
