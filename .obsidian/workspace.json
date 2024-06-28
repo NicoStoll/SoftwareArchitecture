@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md"
               }
             }
           }
@@ -341,10 +341,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "fc7245823e678553",
   "lastOpenFiles": [
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/DesignPrinciples/SOLID.md",
