@@ -162,9 +162,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3c8773f71c7ab3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e8e3901689e7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0829835766be9de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc7245823e678553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -231,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md"
               }
             }
           }
@@ -293,13 +341,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49918e7740771dc3",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+    "Lectures/DesignPrinciples/SOLID.md",
+    "Lectures/QualityGoalsDesignConstraints",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "README.md",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Untitled.md",
     "Assets/Liskov_Violation.png",
     "Assets/OpenClosedPrinciple.png",
     "Lectures",
@@ -330,8 +382,6 @@
     "create a link.md",
     "Mud-to-Structure.md",
     "Architectural Patterns/Layered Architecture.md",
-    "Architectural Patterns/Pipes and Filters.md",
-    "Adaptable.md",
     "Lectures/Architectural Patterns/Categories",
     "Lectures/Architectural Patterns",
     "Execises",
@@ -339,7 +389,6 @@
     "Assets",
     "Untitled.canvas",
     "Lectures/Design Patterns/Structural Patterns",
-    "Lectures/Design Patterns/Behavioral Patterns",
-    "Lectures/Design Patterns/Creational Patterns"
+    "Lectures/Design Patterns/Behavioral Patterns"
   ]
 }

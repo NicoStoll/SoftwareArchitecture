@@ -22,4 +22,13 @@
 = Clients should not be forced to depend on method they do not use. Multiple small and specific interfaces are better than a single, large one
 
 ### Dependency Inversion Principle (DIP)
-= High-level modules should not depend on lov
+= High-level modules should not depend on low-level modules. Both should depend on abstractions (e.g. interfaces). Abstractions should not depend on details. Details (concrete implementations) should depend on abstractions.
+
+
+# CUPID 
+= an alternative to SOLID
+- Composable
+- UNIX philosophy
+- predictable
+- idiomatic
+- domain-based
