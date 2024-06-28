@@ -210,9 +210,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ef31f22f646a200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f32b00bcbb81acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -279,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md"
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md"
               }
             }
           }
@@ -341,11 +365,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "9f32b00bcbb81acc",
   "lastOpenFiles": [
+    "Lectures/Software Architect/Interfaces to other Roles.md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Assets/Interfaces_SoftwareArchitect.png",
+    "Lectures/Software Architect",
+    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Assets/Risk.png",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
-    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Assets/Quality_CorrelationTradeoffs.png",
@@ -362,9 +390,7 @@
     "Lectures",
     "Assets/Abstraction.png",
     "Assets/Cohesion.png",
-    "Assets/LooseCoupling.png",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Assets/CouplingInheritance.png",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/DesignPrinciples",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
@@ -381,14 +407,12 @@
     "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Lectures/Design Patterns/Patterns.md",
     "create a link.md",
-    "Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Categories",
     "Lectures/Architectural Patterns",
     "Execises",
     "arc42-exc",
     "Assets",
     "Untitled.canvas",
-    "Lectures/Design Patterns/Structural Patterns",
-    "Lectures/Design Patterns/Behavioral Patterns"
+    "Lectures/Design Patterns/Structural Patterns"
   ]
 }

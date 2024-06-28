@@ -1,0 +1,1 @@
+![[Interfaces_SoftwareArchitect.png]]
