@@ -341,8 +341,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc7245823e678553",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Assets/InfluencingFactors.png",
+    "Assets/SystemContext.png",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
@@ -363,7 +365,6 @@
     "Assets/CouplingLocation.png",
     "Assets/CouplingTime.png",
     "Assets/CouplingData.png",
-    "Assets/CouplingCreation.png",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/DesignPrinciples",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
@@ -381,7 +382,6 @@
     "Lectures/Design Patterns/Patterns.md",
     "create a link.md",
     "Mud-to-Structure.md",
-    "Architectural Patterns/Layered Architecture.md",
     "Lectures/Architectural Patterns/Categories",
     "Lectures/Architectural Patterns",
     "Execises",
