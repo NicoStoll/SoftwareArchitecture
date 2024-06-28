@@ -22,3 +22,4 @@
 = Clients should not be forced to depend on method they do not use. Multiple small and specific interfaces are better than a single, large one
 
 ### Dependency Inversion Principle (DIP)
+= High-level modules should not depend on lov

@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md"
+                "file": "Lectures/DesignPrinciples/SOLID.md"
               }
             }
           }
@@ -295,6 +295,7 @@
   },
   "active": "49918e7740771dc3",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "README.md",
     "Lectures/DesignPrinciples/SOLID.md",
@@ -302,7 +303,6 @@
     "Assets/Liskov_Violation.png",
     "Assets/OpenClosedPrinciple.png",
     "Lectures",
-    "Lectures/DesignPrinciples/Principles.md",
     "Assets/Abstraction.png",
     "Assets/Cohesion.png",
     "Assets/LooseCoupling.png",
