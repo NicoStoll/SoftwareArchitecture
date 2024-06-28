@@ -293,8 +293,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "49918e7740771dc3",
   "lastOpenFiles": [
+    "README.md",
+    "Lectures/DesignPrinciples/SOLID.md",
+    "Untitled.md",
     "Assets/Liskov_Violation.png",
     "Assets/OpenClosedPrinciple.png",
     "Lectures",
@@ -309,9 +312,6 @@
     "Assets/CouplingTime.png",
     "Assets/CouplingData.png",
     "Assets/CouplingCreation.png",
-    "Assets/CouplingMessage.png",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Untitled.md",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/DesignPrinciples",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
@@ -321,7 +321,6 @@
     "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
     "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
-    "Table of Contents.md",
     "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
