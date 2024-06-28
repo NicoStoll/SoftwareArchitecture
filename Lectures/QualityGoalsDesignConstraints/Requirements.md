@@ -1,11 +1,17 @@
 
 **Requirement:** Condition or capability that must be met or possessed by a system to satisfy an agreement, standard, specification or other formally imposed documents.
+
 **Types:**
 - Functional Requirement
 - Quality Requirement
 - **Constraint:** Externally imposed limitation on system requirements, design or implementation or on the process used to develop or modify a system
 
 ![[SystemContext.png]]
+### Architectural Uncertainty
+- inherent uncertainty in requirements - vague/ambiguous, changing
+- Architects can manage this by
+	- Providing and regularly getting stakeholders feedbacbac
+
 ### System Context
 = the part of reality that is relevant for the requirements of a system
 
@@ -34,6 +40,8 @@
 #### Product Related Factors
 - **Functional Requirements**: Describe desired functionalities
 - **Quality Requirements:** describe quality attributes of the system
+--> Quality requirements might contradict project goals or each other
+--> architecture can not be designed without essential quality requirements
 
 #### Technological Factors
 - Software-Infrastructure
@@ -42,3 +50,10 @@
 - Hardware-Infrastructure
 - Reference Architectures
 - Libraries, Frameworks and Components
+
+### Quality - ISO 25010
+![[Quality_ISO25010.png]]
+
+#### Correlation and Trade-Offs
+
+![[Quality_CorrelationTradeoffs.png]]

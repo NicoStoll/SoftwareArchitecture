@@ -343,6 +343,8 @@
   },
   "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Assets/Quality_CorrelationTradeoffs.png",
+    "Assets/Quality_ISO25010.png",
     "Assets/InfluencingFactors.png",
     "Assets/SystemContext.png",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
@@ -363,8 +365,6 @@
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Assets/CouplingInheritance.png",
     "Assets/CouplingLocation.png",
-    "Assets/CouplingTime.png",
-    "Assets/CouplingData.png",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/DesignPrinciples",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
