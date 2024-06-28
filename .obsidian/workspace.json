@@ -8,27 +8,163 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36e2d9d62a341308",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "96d1a9b847bfeb8a",
+            "id": "5282b2b8aa089fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Factory Method.md",
+                "file": "Lectures/Design Patterns/Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ad06db84d0742e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Architecture Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b95015c04791872a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Architecture Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "343d72fe410629bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c1878087a30c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "693dd5916d098471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a774e86016387dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6112c01735df7beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c932e984c1ce0d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc72461d5df0c873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignPrinciples/Design Principles Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5072d47d55b77b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9782135afd26cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignPrinciples/Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49918e7740771dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -47,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#structuralPattern",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Factory Method.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Factory Method.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Creational Patterns/Factory Method.md"
+                "file": "Lectures/DesignPrinciples/SOLID.md"
               }
             }
           }
@@ -157,28 +293,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96d1a9b847bfeb8a",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
-    "Design Patterns/Behavioral Patterns/Strategy.md",
-    "Design Patterns/Behavioral Patterns/Observer.md",
-    "Assets/Pasted image 20240525095054.png",
-    "Assets/Pasted image 20240525094338.png",
-    "Patterns.md",
-    "Design Patterns/Creational Patterns/Simple Factory.md",
-    "Design Patterns/Creational Patterns/Factory Method.md",
-    "Design Patterns/Creational Patterns/Dependency Injection.md",
-    "2024-05-25.md",
-    "Design Patterns/Structural Patterns/Facade.md",
-    "Design Patterns/Structural Patterns/Composite.md",
-    "Design Patterns/Structural Patterns/Adapter Pattern.md",
-    "Untitled Diagram.svg",
+    "Assets/Liskov_Violation.png",
+    "Assets/OpenClosedPrinciple.png",
+    "Lectures",
+    "Lectures/DesignPrinciples/Principles.md",
+    "Assets/Abstraction.png",
+    "Assets/Cohesion.png",
+    "Assets/LooseCoupling.png",
+    "Lectures/DesignPrinciples/Design Principles Overview.md",
+    "Lectures/DesignPrinciples/Coupling - Types.md",
+    "Assets/CouplingInheritance.png",
+    "Assets/CouplingLocation.png",
+    "Assets/CouplingTime.png",
+    "Assets/CouplingData.png",
+    "Assets/CouplingCreation.png",
+    "Assets/CouplingMessage.png",
+    "Lectures/DesignPrinciples/SOLID.md",
+    "Untitled.md",
+    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+    "Lectures/DesignPrinciples",
+    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
+    "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
+    "Lectures/Architectural Patterns/Architecture Patterns.md",
+    "Lectures/Architectural Patterns/Clean Architecture.md",
+    "Lectures/Architectural Patterns/Dependency Inversion.md",
+    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
+    "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
+    "Table of Contents.md",
+    "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
+    "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
+    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
+    "Lectures/Design Patterns/Structural Patterns/Composite.md",
+    "Lectures/Design Patterns/Structural Patterns/Facade.md",
+    "Lectures/Design Patterns/Patterns.md",
+    "create a link.md",
+    "Mud-to-Structure.md",
+    "Architectural Patterns/Layered Architecture.md",
+    "Architectural Patterns/Pipes and Filters.md",
+    "Adaptable.md",
+    "Lectures/Architectural Patterns/Categories",
+    "Lectures/Architectural Patterns",
+    "Execises",
+    "arc42-exc",
     "Assets",
     "Untitled.canvas",
-    "create a link.md",
-    "Design Patterns/Structural Patterns",
-    "Design Patterns/Behavioral Patterns",
-    "Design Patterns/Creational Patterns",
-    "Design Patterns",
-    "Table of Contents.md"
+    "Lectures/Design Patterns/Structural Patterns",
+    "Lectures/Design Patterns/Behavioral Patterns",
+    "Lectures/Design Patterns/Creational Patterns"
   ]
 }
