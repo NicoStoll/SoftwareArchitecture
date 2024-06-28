@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md"
+                "file": "Lectures/DesignPrinciples/Principles.md"
               }
             }
           }
@@ -295,6 +295,7 @@
   },
   "active": "49918e7740771dc3",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/Design Principles Overview.md",
     "README.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Untitled.md",
@@ -305,7 +306,6 @@
     "Assets/Abstraction.png",
     "Assets/Cohesion.png",
     "Assets/LooseCoupling.png",
-    "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Assets/CouplingInheritance.png",
     "Assets/CouplingLocation.png",
