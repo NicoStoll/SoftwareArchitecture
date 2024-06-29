@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -327,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architect/Interfaces to other Roles.md"
+                "file": "Lectures/Software Architecture/Software Architecture.md"
               }
             }
           }
@@ -389,16 +389,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "4eb8cea89378700e",
   "lastOpenFiles": [
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/Software Architect/Interfaces to other Roles.md",
     "Assets/SA_ITOps.png",
     "Assets/SA_Tester.png",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
     "Assets/SA_Developer.png",
     "Assets/SA_ProjectManager.png",
     "Assets/SA_Customer.png",
     "Assets/SA_Analyst.png",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Architectural View.md",
@@ -412,7 +412,6 @@
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Assets/Quality_CorrelationTradeoffs.png",
-    "Assets/Quality_ISO25010.png",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/QualityGoalsDesignConstraints",
     "Lectures/DesignPrinciples/Principles.md",
