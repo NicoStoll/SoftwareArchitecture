@@ -61,5 +61,12 @@ pertaining to the functions, physical signal exchanges, and other characteristic
 **Black Box vs. White Box**
 ![[BlackBoxWhiteBox.png]]
 
-**De
+**(De-)Composition and Refinement**
+Components can be further decomposed into subcomponents according to, e.g.: Important data types, Layers, Customer journey, smallest piece of self-contained functionality
+
+**Stakeholder Concern:** what interests or bothers someone about a system/component (e.g. goals, interests, required functionalities, expectations, fears, need for regulation, ...).
+
+**Cross-cutting concern:** Impacts many components of the system, therefore difficult to isolate. Often related to technical constraints or functionality that is required in many places (e.g. logging, persistence, caching)
+
+
 
