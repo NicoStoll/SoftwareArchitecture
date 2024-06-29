@@ -4,3 +4,16 @@ The <span style="color:rgb(255, 0, 0)">fundamental organization</span> of a syst
 
 ### Software Architecture as Part of the Software Lifecycle
 ![[SoftwareLifecycle.png]]
+
+### Principles of Good Architecture
+1. **useful:** fulfill functional and quality requirements
+2. **stable:** reliable, mature, maintainable
+3. **graceful:** well-structured design, great UX
+
+**Good Software Architecture**
+- Creates a meaningful division of components (Abstraction from complex details: [[Principles]], Isolate [[Cross-Cutting Concerns]] )
+- Shows that functional and quality [[Requirements]] will or can be fulfilled over the entire system
+- Helps the stakeholders understand the system
+- Specifies necessary implementation measures
+- Defined design guidelines to ensure conceptual integrity
+- Documents and provides rationale for design decision
