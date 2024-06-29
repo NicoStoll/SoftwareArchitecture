@@ -389,8 +389,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eb8cea89378700e",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Assets/SoftwareLifecycle.png",
+    "Assets/SoftwareArchitecture.png",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Assets/SA_ITOps.png",
@@ -411,7 +413,6 @@
     "Assets/Risk.png",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Assets/Quality_CorrelationTradeoffs.png",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/QualityGoalsDesignConstraints",
     "Lectures/DesignPrinciples/Principles.md",
