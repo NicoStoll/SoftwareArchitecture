@@ -35,3 +35,31 @@ The <span style="color:rgb(255, 0, 0)">fundamental organization</span> of a syst
 - Focus on system longevity and facilitate system maintenance
 - Support of the entire life cycle of a software system
 - Enable reuse
+
+### Key Terms
+
+![[KeyTerms_SA.png]]
+
+**Building Block/Component**
+“entity with **discrete structure**, such as an assembly or software module, within a
+system **considered at a particular level of analysis**” (ISO25010:2011)
+
+**Interface**
+“shared boundary between two functional units, defined by various characteristics
+pertaining to the functions, physical signal exchanges, and other characteristics”
+
+- 'Contract' that components must abide to
+- Well-defined access point to a component/system
+
+![[Interface_Types.png]]
+**Standard Interface**:  Caller and called adhere to the interface contract that is defined externally
+**Independent Interface**: Caller and called have their own interfaces that are connected using an adapter
+**Provided interface**: The called party defines the interface. This type of contract is used very often
+**Required interface**: The caller defines the contract. This type is often used with frameworks
+
+
+**Black Box vs. White Box**
+![[BlackBoxWhiteBox.png]]
+
+**De
+
