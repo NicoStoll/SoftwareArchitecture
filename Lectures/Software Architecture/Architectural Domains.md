@@ -10,3 +10,12 @@ Architectural Domains are problem spaces with a district scope. Software archite
 ![[Pasted image 20240629115450.png]]
 
 ### Describing Software Architecture
+Approaches: ADD, S4V, RUP 4 + 1, BAPO, ASC
+
+We want to organize things into **views**
+**Views** consist of **models**
+
+**Model:** Abstraction of reality - for specific purpose (viewpoint), explain or predict reality, omit certain aspects, reduce complexity
+**View:** Sorts models into boxes. 'Views are projections of the software architecture'
+
+![[SA_Views.png]]
