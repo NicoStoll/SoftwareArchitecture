@@ -17,3 +17,21 @@ The <span style="color:rgb(255, 0, 0)">fundamental organization</span> of a syst
 - Specifies necessary implementation measures
 - Defined design guidelines to ensure conceptual integrity
 - Documents and provides rationale for design decision
+
+### Objectives and Benefits of Software Architecture
+
+**Objectives:**
+- Determine high-level system structure
+- Select the central design paradigms
+- Map functionalities to system building blocks
+- Achieve quality requirements
+- Support the creation, maintenance, and implementation of the system
+- Help stakeholders to understand the system
+
+**Benefits:**
+- Ensure that requirements and quality goals are met
+- Ensure a consistent solution: similar problems are solved similarly
+- Ensure understandability of the system and design decisions
+- Focus on system longevity and facilitate system maintenance
+- Support of the entire life cycle of a software system
+- Enable reuse
