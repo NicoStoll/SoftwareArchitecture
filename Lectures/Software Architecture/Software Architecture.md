@@ -68,5 +68,9 @@ Components can be further decomposed into subcomponents according to, e.g.: Impo
 
 **Cross-cutting concern:** Impacts many components of the system, therefore difficult to isolate. Often related to technical constraints or functionality that is required in many places (e.g. logging, persistence, caching)
 
+**(Elastic) Scalability**
+Scalability: Potential to increase performance. Scalability does not automatically improve performance but will allow you to do so. **Horizontal scaling vs. vertical scaling**
 
+**Complexity**
+Amount of human effort required to understand something in order to change or extend it
 

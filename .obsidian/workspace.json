@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/Software Architecture/Architectural Domains.md",
                 "mode": "source",
                 "source": false
               }
@@ -327,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/Software Architecture/Architectural Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/Software Architecture/Architectural Domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md"
+                "file": "Lectures/Software Architecture/Architectural Domains.md"
               }
             }
           }
@@ -391,14 +391,14 @@
   },
   "active": "4eb8cea89378700e",
   "lastOpenFiles": [
+    "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
-    "Lectures/Software Architecture/Architectural View.md",
+    "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
-    "Lectures/Software Architecture/Software Architecture.md",
     "Assets/BlackBoxWhiteBox.png",
     "Assets/Interface_Types.png",
     "Assets/KeyTerms_SA.png",
