@@ -41,6 +41,15 @@ Document and communicate software architecture based on
 ## Guide + Support Implementation
 Support realization and implementation of the architecture
 - Ensure **compliance of implementation** with the systems software architecture
-- integrate **feedback** from relevant stakeholder
+- integrate **feedback** from relevant stakeholders
+- specify and improve development and **test tools**
+- analyze **architectural relevant issues** 
+- coordinate with stakeholders of other projects or peripheral systems
+- support testers
+- Lead an guide developer (communicate, support, identify skilled developers and learn from them)
 
 ## Evaluate Architecture
+Analyze and evaluate software architecture and architectural decisions
+- Quantitative and qualitative assessment
+- Adherence to requirements, constraints, and architecture goals
+- Identify and mitigate risk, esp. concerning quality requirements

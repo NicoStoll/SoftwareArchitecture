@@ -253,26 +253,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural View.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb244d48be10828b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -339,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md"
+                "file": "Lectures/Software Architect/Interfaces to other Roles.md"
               }
             }
           }
@@ -401,11 +389,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb244d48be10828b",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Assets/SA_ITOps.png",
+    "Assets/SA_Tester.png",
     "Lectures/Software Architect/Interfaces to other Roles.md",
+    "Assets/SA_Developer.png",
+    "Assets/SA_ProjectManager.png",
+    "Assets/SA_Customer.png",
+    "Assets/SA_Analyst.png",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Architectural View.md",
     "Lectures/Software Architecture/Software Architecture.md",
@@ -419,17 +413,12 @@
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Assets/Quality_CorrelationTradeoffs.png",
     "Assets/Quality_ISO25010.png",
-    "Assets/InfluencingFactors.png",
-    "Assets/SystemContext.png",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/QualityGoalsDesignConstraints",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "README.md",
-    "Assets/Liskov_Violation.png",
-    "Assets/OpenClosedPrinciple.png",
     "Lectures",
-    "Assets/Abstraction.png",
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/DesignPrinciples",
@@ -443,7 +432,6 @@
     "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
-    "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Architectural Patterns/Categories",
     "Lectures/Architectural Patterns",
     "Execises",
