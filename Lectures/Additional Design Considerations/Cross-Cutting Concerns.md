@@ -34,6 +34,14 @@ Approaches:
 	- **Additional Payload**
 - signed with a secret key --> server can check whether it has been untouched
 - **expiration data** ensures that it cannot be misused for a long time
+
+**Business Rules and Processes**
+- Domain-specific: causal connections or conditional instructions (if X is finished, do Y)
+- Business rules and processes are often implemented directly in the code (hard-coded)
+	- may contain **complex knowledge**
+	- distributed across many components --> low **maintainability**
+	- simple changes become expensive to estimate
+Better: **centralized, explicit declaration**
 ### Aspect Oriented Programming
 
 [[Aspect Oriented Programming (AOP)]]
