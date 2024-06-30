@@ -4,3 +4,6 @@
 #### Correlation and Trade-Offs
 
 ![[Quality_CorrelationTradeoffs.png]]
+
+
+### Archieving Q

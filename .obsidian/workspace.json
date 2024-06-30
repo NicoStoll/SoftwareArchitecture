@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
               }
             }
           }
@@ -403,10 +403,10 @@
   },
   "active": "3b23a7c282cdcee0",
   "lastOpenFiles": [
+    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
-    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
