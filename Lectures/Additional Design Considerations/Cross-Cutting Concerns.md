@@ -20,13 +20,20 @@ Approaches:
 
 ### Security
 
-### Security Guidelines:
+**Security Guidelines:**
 - Use existing technologies -e.g. **JWT**
 - Always use **HTTPS/TLS**
 - Always **validate/filter** input to prevent SQL-Injections, XSS
 - Always **validate** on the **server side**
 - **Never store passwords** - always store the hashed + salted password
 
+**Authorization:**
+- JWT - encoded string that can be **decoded publicly** by everybody, represents a JSON-Map which contains at least
+	- **Subject**
+	- **Issue**
+	- **Additional Payload**
+- signed with a secret key --> server can check whether it has been untouched
+- **expiration data** ensures that it cannot be misused for a long time
 ### Aspect Oriented Programming
 
 [[Aspect Oriented Programming (AOP)]]
