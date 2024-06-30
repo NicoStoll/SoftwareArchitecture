@@ -3,14 +3,29 @@
 - result of fulfilling quality requirements
 - cannot easily be separated into independent components
 
+**Cross-Cutting Concerns**
+1. **Authentication:** Determine the senders identity
+2. **Authorization:** Grant rights based on identity
+3. **Integrity:** Detect manipulation of data
+4. **Confidentiality:** Restrict unauthorized data access
+5. **Non-repudiation:** Authorship and validity of data
+6. **Availability:** Precautions against accidental or deliberate system failure
+
 ### Reduce Complexity
 
 Each problem has an intrinsic complexity that can not be reduced 
-
-
+Approaches:
+- **Abstraction:** A view of an object that focuses on the information relevant to a particular purpose and ignores the remainder of the information
+- **Decomposition:** The process by which a complex problem or system is broken down into parts that are easier to conceive, understand, program and maintain
 
 ### Security
 
+### Security Guidelines:
+- Use existing technologies -e.g. **JWT**
+- Always use **HTTPS/TLS**
+- Always **validate/filter** input to prevent SQL-Injections, XSS
+- Always **validate** on the **server side**
+- **Never store passwords** - always store the hashed + salted password
 
 ### Aspect Oriented Programming
 
