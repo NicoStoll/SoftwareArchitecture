@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
+                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md"
               }
             }
           }
@@ -403,9 +403,11 @@
   },
   "active": "3b23a7c282cdcee0",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/SOLID.md",
+    "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Lectures/Additional Design Considerations",
     "Lectures/Software Architecture/Software Architecture.md",
@@ -428,9 +430,7 @@
     "Lectures/Software Architecture",
     "Lectures/Software Architect",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
-    "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/QualityGoalsDesignConstraints",
-    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "README.md",
     "Lectures",
