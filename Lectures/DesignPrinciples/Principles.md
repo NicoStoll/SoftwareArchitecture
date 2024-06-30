@@ -33,6 +33,36 @@ Pros:
 - Changes are local, NOT global
 
 ![[LooseCoupling.png]]
+### Tactics to Reduce Coupling
+
+1. General
+	- Temporal and data dependencies are mostly due to functional dependencies
+	- Apply design principles and patterns
+	- Define concrete dependencies only at runtime or installation time (defer building)
+2. Structural Dependencies
+	- Polymorphism, delegation
+	- [[Facade]], Decorator Pattern
+3. Instantiation dependencies
+	- [[Simple Factory]], Proxy Pattern
+	- [[Dependency Injection]]
+4. Call dependencies
+	- Messaging, with asynchronous
+	- Avoid cyclical relationships
+	- Restrict communication
+	- Use abstraction [[Designing Interfaces]]
+	- Use intermediaries e.g. adapters, brokers, proxies
+5. Data or data type dependencies
+	- Data replication, event sourcing
+	- Standardized data structures
+6. Time dependencies
+	- Messaging, Events
+	- [[Observer]]
+7. Location dependencies
+	- Registry, Repository
+8. Dependencies on libraries and frameworks
+	- [[Dependency Inversion]]
+	- Inversion of Control
+
 ## High Cohesion
 - **Objective: group components with related dependencies together within a module**
 - determining cohesion depends on the **context and domain**
