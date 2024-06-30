@@ -16,7 +16,13 @@ Interfaces must fulfill user (mostly consumer) requirements
 
 
 ### Best Practices
-
+- use it yourself, implement tests and use the tests as a reference example
+- clarify requirements with the customer and provider
+- hide implementation details (information hiding principle)
+- use meaningful, self-descriptive names
+- minimize surprises and side effects (**principle of least surprise**)
+- provide **atomic** information units
+- documentation (especially for boundary/threshold example and errors)
 
 ### Java Message Services (JMS)
 
