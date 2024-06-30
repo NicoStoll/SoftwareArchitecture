@@ -26,6 +26,12 @@ Interfaces must fulfill user (mostly consumer) requirements
 
 ### Java Message Services (JMS)
 
+**Key Concepts:**
+- Point-to-Point (P2P) messaging (Queue | One-to-many messaging)
+- Storage | delivery | routing through message brokers
+- Message types: text, bytes, objects, maps, streams
+
+
 ```java
 public class JMSProducer {
 
@@ -274,8 +280,10 @@ public class MessageService {
       }
 }
 ```
-### Representational State Transfer (REST)
 
+### Representational State Transfer (REST)
+- Business objects are referenced as Web resources
+- Variours
 
 ### Simple Object Access Protocol (SOAP)
 
