@@ -258,9 +258,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8be0f65abc00131a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06d3c9ca86f3e22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a694c4e941555c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e43ea6cb12177655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -311,7 +359,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50434494018555
+    "width": 307.50434494018555
   },
   "right": {
     "id": "b57652f4492ec689",
@@ -327,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md",
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md",
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md"
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md"
               }
             }
           }
@@ -389,8 +437,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e987dcacdfabd483",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Do.md",
+    "Lectures/DesignApproaches/View-Based Architecture Development.md",
+    "Lectures/SoftwareArchitecture Evalutation",
+    "Lectures/Documentation Communication",
+    "Lectures/DesignApproaches/Domain Driven Design.md",
+    "Lectures/DesignApproaches/iSAQB-Views.md",
+    "Lectures/DesignApproaches/Design Methods.md",
+    "Lectures/Additional Design Considerations/Designing Interfaces.md",
+    "Lectures/DesignApproaches",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
@@ -399,7 +456,6 @@
     "Assets/AOP_2.png",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Assets/CrossCuttingConcerns.png",
-    "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Assets/SOAP.png",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Additional Design Considerations",
@@ -428,14 +484,7 @@
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
-    "Lectures/Architectural Patterns/Clean Architecture.md",
-    "Lectures/Architectural Patterns/Dependency Inversion.md",
-    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
-    "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
     "Lectures/Architectural Patterns/Categories",
-    "Lectures/Architectural Patterns",
-    "Execises",
-    "arc42-exc",
     "Untitled.canvas"
   ]
 }
