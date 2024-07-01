@@ -58,3 +58,13 @@
 - Establish **version control** for documentation
 - **Change Log Entry** (Data and version, Author of changes, sections that were changed)
 - periodically validate/review/improve guidelines
+
+
+### Common Document Types
+1. **Central architectural description** - architectural goals (vision), quality  requirements, views, decisions, patterns and additional, necessary information
+2. **Architectural overview** - summary, minimum substitution for the complete description
+3. **Document summary** - a list of all architecture-related documents
+4. **Overview presentation** - set of slides
+5. **Architecture wallpaper** - many aspects of the architecture on a single, very large output (too big to fit a computer screen, hence wallpaper)
+6. **Guide for documentation** - explains the function and the structure of the documentation
+7. **Technical information** - information about development methodologies, code conventions, build and tests

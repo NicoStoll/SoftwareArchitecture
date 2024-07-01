@@ -44,3 +44,16 @@
 
 #### Chapter 9: Architectural Decisions
 - Important, expensive, critical, large-scale or risky architecture decisions including rationale
+
+#### Chapter 10: Quality Requirements
+- Architectural relevant **quality requirements**
+- Relevant scenarios
+- **Quality tree**
+
+#### Chapter 11: Risk and Technical Debt
+- Known technical risk or technical debt
+- Potential problems internal or external to the system
+
+#### Chapter 12: Glossary
+- Important domain and technical terms
+- Translation reference
