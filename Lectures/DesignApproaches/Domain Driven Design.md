@@ -35,3 +35,5 @@
 ![[StrategicDesign.png]]
 
 ### Pillar 3 : Tactical Design
+
+![[TacticalDesign.png]]
