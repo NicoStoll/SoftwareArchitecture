@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md"
+                "file": "Lectures/Documentation Communication/arc42.md"
               }
             }
           }
@@ -427,8 +427,11 @@
   },
   "active": "5a694c4e941555c9",
   "lastOpenFiles": [
-    "Lectures/DesignApproaches/iSAQB-Views.md",
+    "Lectures/Documentation Communication/One Page Vision.md",
+    "Lectures/Documentation Communication/arc42.md",
+    "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
+    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/Design Methods.md",
     "Domain Dictionary.md",
@@ -461,12 +464,9 @@
     "Do.md",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
-    "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/DesignApproaches",
     "Assets/AOP_1.png",
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Additional Design Considerations",
-    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/Software Architecture",
     "Lectures/Software Architect",
     "Lectures/QualityGoalsDesignConstraints",
