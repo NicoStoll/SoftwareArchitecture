@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md"
+                "file": "Lectures/DesignApproaches/Domain Driven Design.md"
               }
             }
           }
@@ -427,6 +427,8 @@
   },
   "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Assets/StrategicDesign.png",
+    "Lectures/DesignApproaches/Design Methods.md",
     "Assets/HierarchicalDecomposition.png",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
@@ -445,7 +447,6 @@
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
-    "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
@@ -463,7 +464,6 @@
     "Assets/AOP_1.png",
     "Assets/AOP_3.png",
     "Assets/AOP_2.png",
-    "Assets/CrossCuttingConcerns.png",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Additional Design Considerations",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
