@@ -425,8 +425,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a694c4e941555c9",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Assets/HierarchicalDecomposition.png",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
@@ -466,7 +467,6 @@
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Additional Design Considerations",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architecture",
     "Lectures/Software Architect",
     "Lectures/QualityGoalsDesignConstraints",

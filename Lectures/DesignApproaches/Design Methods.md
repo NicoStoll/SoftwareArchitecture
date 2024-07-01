@@ -12,7 +12,8 @@
 | Design is visible in the product               |                                               |
 
  ### Bottom Up Design
-- Start: Libraries
+- Start: Libraries, sub functions, domain classes
+- Proceed: Assemble partial solutions | subsystems
 
 | Advantages                           | Disadvantages                                              |
 | ------------------------------------ | ---------------------------------------------------------- |
@@ -22,4 +23,12 @@
 | Starting point are real sub-problems | Danger of uncontrolled growth                              |
 |                                      | Design is not visible in the product                       |
 
+### Hierarchical Decomposition
 
+- always achieve loose coupling and high cohesion
+- Apply [[SOLID]]-Principles
+- Design in iterations
+- Reuse established and proven structures
+- Check and evaluate alternatives
+
+![[HierarchicalDecomposition.png]]
