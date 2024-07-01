@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md"
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md"
               }
             }
           }
@@ -427,9 +427,15 @@
   },
   "active": "5a694c4e941555c9",
   "lastOpenFiles": [
+    "Lectures/Documentation Communication/UML/Activity Diagram.md",
+    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
+    "Lectures/Documentation Communication/UML/Deployment Diagram.md",
+    "Lectures/Documentation Communication/UML/Package Diagram.md",
+    "Lectures/Documentation Communication/UML/Class Diagram.md",
+    "Lectures/Documentation Communication/Architecture Documentation.md",
+    "Lectures/Documentation Communication/UML",
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/One Page Vision.md",
-    "Lectures/Documentation Communication/Architecture Documentation.md",
     "ADR.md",
     "Assets/Documentation_Interface.png",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
@@ -452,11 +458,6 @@
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Architecture Formation.md",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
-    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-    "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
-    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Assets/RuntimeView.png",
     "Assets/BuildingBlockView.png",
     "Assets/DeploymentView.png",
@@ -472,7 +473,6 @@
     "Lectures/QualityGoalsDesignConstraints",
     "Lectures",
     "Lectures/DesignPrinciples",
-    "Lectures/Architectural Patterns/Categories",
     "Untitled.canvas"
   ]
 }
