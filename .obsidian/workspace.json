@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/Documentation Communication/One Page Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/Documentation Communication/One Page Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/Documentation Communication/One Page Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md"
+                "file": "Lectures/Documentation Communication/One Page Vision.md"
               }
             }
           }
@@ -428,8 +428,10 @@
   "active": "5a694c4e941555c9",
   "lastOpenFiles": [
     "Lectures/Documentation Communication/arc42.md",
-    "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
+    "ADR.md",
+    "Assets/Documentation_Interface.png",
+    "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
@@ -461,11 +463,9 @@
     "Assets/DeploymentView.png",
     "Assets/ContextView.png",
     "Assets/iSAQB_ArchitectureViews.png",
-    "Do.md",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
     "Lectures/DesignApproaches",
-    "Assets/AOP_1.png",
     "Lectures/Additional Design Considerations",
     "Lectures/Software Architecture",
     "Lectures/Software Architect",

@@ -31,7 +31,30 @@
  #### [[Cross-Cutting Concerns]] describe:
  - [[Requirements]] 
  - Solution outline
- - Constraints
-	- Rationale
-	- Risks
-	- Rejected Alternatives
+ - Constraints 
+ - Rationale
+ - Risks
+ - Rejected Alternatives
+
+#### Interfaces
+- Specify early
+- Plan for change/versioning
+- Use tools like **Swagger**
+
+![[Documentation_Interface.png]]
+#### Design Decision
+- understand architecture decisions and their implications
+- user a [[ADR]]
+
+#### Documenting with Diagrams
+- 7 +- 2 Rule (Information humans can hold in short-term memory)
+- avoid too large or complex diagrams --> rather break down hierarchically
+- **Exception: architectural wallpaper**
+- use standards: UML/BPMN
+- Provide descriptions
+- Provide legend if no standard
+
+#### Configuration Management of Documentation
+- Establish **version control** for documentation
+- **Change Log Entry** (Data and version, Author of changes, sections that were changed)
+- periodically validate/review/improve guidelines
