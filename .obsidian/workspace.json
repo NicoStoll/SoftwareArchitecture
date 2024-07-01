@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md"
               }
             }
           }
@@ -150,11 +150,13 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
+    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Pasted image 20240701221428.png",
     "Assets/MartinMetrics.png",
     "Assets/FanInFanOut.png",
     "Lectures/DesignApproaches/iSAQB-Views.md",
-    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Assets/UML_ActivityDiagram.png",
     "Assets/UML_ClassDiagram_2.png",
@@ -169,7 +171,6 @@
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
     "Assets/UML_SequenceDiagram.png",
     "Assets/UML_DeploymentDiagram.png",
-    "Assets/UML_PackageDiagram_2.png",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/UML",
     "Lectures/Documentation Communication/arc42.md",
@@ -186,7 +187,6 @@
     "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/DesignPrinciples/Principles.md",
-    "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
     "Lectures/DesignApproaches",

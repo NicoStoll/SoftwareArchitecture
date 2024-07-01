@@ -27,6 +27,9 @@ I = 1 --> a completely instable package (i.e. many outgoing /few incoming depend
 
 ![[MartinMetrics.png]]
 - the perpendicular **distance of a package** from the idealized line in the graph
-- 
+- indicator of the packages balance between abstractness and stability
+- A package squarely on the main sequence is **optimally balanced** with respect to its abstractness and stability
 
 $$D=| A + I - 1 |$$
+D = 0 --> a package that is coincident with the main sequence
+D = 1 --> a package that is as far from the main sequence as possible
