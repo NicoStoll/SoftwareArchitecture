@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/DesignApproaches/iSAQB-Views.md",
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Assets/UML_ActivityDiagram.png",
     "Assets/UML_ClassDiagram_2.png",
@@ -173,7 +175,6 @@
     "Lectures/Documentation Communication/One Page Vision.md",
     "ADR.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
-    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/Design Methods.md",
     "Domain Dictionary.md",
