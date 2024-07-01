@@ -4,7 +4,7 @@
 	- simplified UML-class diagram
 	- comments describing the behavior
 - Implementation of the model
-	- use a **clean architecture** (Pillar 2 : Strategic Design)
+	- use a [[Clean Architecture]] (Pillar 2 : Strategic Design)
 	- define domain level with entities, value objects and services
 	- support with modules aggregates, factories and repositories (Pillar 3 : Tactic Design)
 - Constantly refactor resulting implementation
@@ -13,7 +13,7 @@
 
 ### Pillar 1 : Ubiquitous Language
 - identify the system's business domain
-- create a domain model using the user's language
+- create a domain model using the user's language, comprise in [[Domain Dictionary]]
 - discuss the model with the domain experts
 - use the domain model as a basis of the system design
 - identify subdomains and map them out to bounded contexts in the solution space

@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md"
+                "file": "Lectures/DesignApproaches/View-Based Architecture Development.md"
               }
             }
           }
@@ -427,10 +427,11 @@
   },
   "active": "5a694c4e941555c9",
   "lastOpenFiles": [
-    "Domain Dictionary.md",
-    "Lectures/DesignApproaches/Design Methods.md",
+    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
+    "Lectures/DesignApproaches/Design Methods.md",
+    "Domain Dictionary.md",
     "Assets/TacticalDesign.png",
     "Assets/StrategicDesign.png",
     "Assets/HierarchicalDecomposition.png",
@@ -451,7 +452,6 @@
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
-    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Assets/RuntimeView.png",
     "Assets/BuildingBlockView.png",
     "Assets/DeploymentView.png",

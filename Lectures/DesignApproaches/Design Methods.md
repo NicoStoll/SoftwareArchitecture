@@ -14,7 +14,12 @@
 ### Design Methods - Overview
 1. Hierarchical: Top-down/Bottom-up decomposition
 2. **Stepwise refinement**: Decompose functions
-3. **Structured Design:** Design systems like engineering blue
+3. **Structured Design:** Derive design from Information Flow
+4. **Structured Analysis and Design Technique (SADT):** Design System like engineering blueprints
+5. **Object Oriented Design (OOD):** Modeling the problem domain in terms of objects and operations performed upon them
+6. [[Domain Driven Design]] (DDD)
+7. **Service Oriented Architecture (SOA):** Construct the system by using many (small) services that can be obtained from one or more providers
+8. **Event Driven Architecture (EDA):** Construct the system reacting on receiving one or more event notifications
 
 ### Top Down Design
 - Start: Vision of the complete system
