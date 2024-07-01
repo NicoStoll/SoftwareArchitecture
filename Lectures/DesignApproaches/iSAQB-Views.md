@@ -43,3 +43,16 @@
 	- Help developers understand the system
 	- Communicate with operations
 ![[RuntimeView.png]]
+### With which view to start
+
+Views mostly developed in parallel with incremental updates.
+**Usually, the context view is a good point to start.**
+
+1. Start with the **Block View** if...
+	- you have experience and existing knowledge with similar systems
+	- component that are required by the system are clear
+	- components of a system already exist and will only be changed
+1. Start with the **runtime View** if...
+	- essential components are known, but their interaction and responsibilities are not clear
+1. Start with the **deployment view** if...
+	- there are many constraints and requirements (infrastructure, operations, administration, ...)

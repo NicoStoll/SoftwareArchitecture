@@ -4,275 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b143e39cc8859f3",
+        "id": "bca2d446ed687d58",
         "type": "tabs",
         "children": [
           {
-            "id": "5282b2b8aa089fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Design Patterns/Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ad06db84d0742e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Architecture Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b95015c04791872a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Architecture Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "343d72fe410629bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56c1878087a30c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "693dd5916d098471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a774e86016387dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6112c01735df7beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c932e984c1ce0d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc72461d5df0c873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/DesignPrinciples/Design Principles Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5072d47d55b77b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9782135afd26cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49918e7740771dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c8773f71c7ab3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51e8e3901689e7f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0829835766be9de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc7245823e678553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ef31f22f646a200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f32b00bcbb81acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Software Architect/Interfaces to other Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2db123a80598ee7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e987dcacdfabd483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Additional Design Considerations/Designing Interfaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8be0f65abc00131a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06d3c9ca86f3e22e",
+            "id": "50f140af6719e67d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -282,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a694c4e941555c9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/UML_ActivityDiagram.png"
-              }
-            }
-          },
-          {
-            "id": "8bb1671b1d9ac248",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/UML_ActivityDiagram.png"
-              }
-            }
-          },
-          {
-            "id": "59421fa6bcc7d55f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/UML_ActivityDiagram.png"
-              }
-            }
-          },
-          {
-            "id": "5ad241ebf3a24312",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "UML_ClassDiagram_1.png"
-              }
-            }
-          },
-          {
-            "id": "d66e41372138e767",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "UML_ClassDiagram_2.png"
-              }
-            }
-          },
-          {
-            "id": "30178405dcc4fdfb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/UML_ActivityDiagram.png"
-              }
-            }
           }
-        ],
-        "currentTab": 28
+        ]
       }
     ],
     "direction": "vertical"
@@ -411,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/UML_ActivityDiagram.png",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -428,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/UML_ActivityDiagram.png",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -451,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/UML_ActivityDiagram.png"
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md"
               }
             }
           }
@@ -473,26 +148,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "50f140af6719e67d",
   "lastOpenFiles": [
-    "UML_ClassDiagram_2.png",
-    "UML_ClassDiagram_1.png",
-    "Assets/UML_ActivityDiagram.png",
-    "README.md",
-    "UML2Java_2.png",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
-    "UML2Java_1.png",
+    "Assets/UML_ActivityDiagram.png",
+    "Assets/UML_ClassDiagram_2.png",
+    "Assets/UML_ClassDiagram_1.png",
+    "README.md",
+    "Assets/UML2Java_2.png",
+    "Assets/UML2Java_1.png",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
-    "UML_SequenceDiagram.png",
-    "UML_DeploymentDiagram.png",
-    "UML_PackageDiagram_2.png",
-    "UML_PackageDiagram_1.png",
-    "UML_ClassDiagram_5.png",
-    "UML_ClassDiagram_5.png",
+    "Assets/UML_SequenceDiagram.png",
+    "Assets/UML_DeploymentDiagram.png",
+    "Assets/UML_PackageDiagram_2.png",
+    "Assets/UML_PackageDiagram_1.png",
+    "Assets/UML_ClassDiagram_5.png",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/UML",
     "Lectures/Documentation Communication/arc42.md",
