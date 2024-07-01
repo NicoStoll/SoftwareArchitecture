@@ -1,0 +1,18 @@
+{
+  "mathlive:open-modal": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "mathlive:open-modal-inline": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ]
+}
