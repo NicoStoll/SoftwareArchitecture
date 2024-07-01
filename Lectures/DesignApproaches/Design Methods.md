@@ -1,4 +1,21 @@
 
+### How to start
+
+- use an **iterative | incremental | view based** approach
+- decide on a method
+- Focus on four [[iSAQB-Views]]
+- define a domain model
+	- precise [[Domain Dictionary]]
+	- simplified UML-class diagram
+	- comments describing the behavior
+- **Logical Design First**: Start with a logical design, do the technical mapping afterwards
+- **Direct mapping**: the structure of the design should relate closely to the structures of the problem domain
+
+### Design Methods - Overview
+1. Hierarchical: Top-down/Bottom-up decomposition
+2. **Stepwise refinement**: Decompose functions
+3. **Structured Design:** Design systems like engineering blue
+
 ### Top Down Design
 - Start: Vision of the complete system
 - Proceed: Decompose into smaller problems
