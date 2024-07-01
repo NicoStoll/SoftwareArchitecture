@@ -287,16 +287,64 @@
             "id": "5a694c4e941555c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/UML_ActivityDiagram.png"
+              }
+            }
+          },
+          {
+            "id": "8bb1671b1d9ac248",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/UML_ActivityDiagram.png"
+              }
+            }
+          },
+          {
+            "id": "59421fa6bcc7d55f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/UML_ActivityDiagram.png"
+              }
+            }
+          },
+          {
+            "id": "5ad241ebf3a24312",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "UML_ClassDiagram_1.png"
+              }
+            }
+          },
+          {
+            "id": "d66e41372138e767",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "UML_ClassDiagram_2.png"
+              }
+            }
+          },
+          {
+            "id": "30178405dcc4fdfb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/UML_ActivityDiagram.png"
               }
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -363,7 +411,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
+                "file": "Assets/UML_ActivityDiagram.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +428,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
+                "file": "Assets/UML_ActivityDiagram.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +451,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md"
+                "file": "Assets/UML_ActivityDiagram.png"
               }
             }
           }
@@ -425,27 +473,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a694c4e941555c9",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "UML_ClassDiagram_2.png",
+    "UML_ClassDiagram_1.png",
+    "Assets/UML_ActivityDiagram.png",
+    "README.md",
+    "UML2Java_2.png",
+    "Lectures/Documentation Communication/UML/UML to Java Code.md",
+    "UML2Java_1.png",
+    "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
+    "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
-    "Lectures/Documentation Communication/UML/Package Diagram.md",
-    "Lectures/Documentation Communication/UML/Class Diagram.md",
+    "UML_SequenceDiagram.png",
+    "UML_DeploymentDiagram.png",
+    "UML_PackageDiagram_2.png",
+    "UML_PackageDiagram_1.png",
+    "UML_ClassDiagram_5.png",
+    "UML_ClassDiagram_5.png",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/UML",
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/One Page Vision.md",
     "ADR.md",
-    "Assets/Documentation_Interface.png",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/Design Methods.md",
     "Domain Dictionary.md",
-    "Assets/TacticalDesign.png",
-    "Assets/StrategicDesign.png",
-    "Assets/HierarchicalDecomposition.png",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
@@ -455,15 +512,6 @@
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/Software Architecture/Software Architecture.md",
-    "Lectures/Software Architecture/Architectural Domains.md",
-    "Lectures/Software Architecture/Architecture Formation.md",
-    "Assets/RuntimeView.png",
-    "Assets/BuildingBlockView.png",
-    "Assets/DeploymentView.png",
-    "Assets/DeploymentView.png",
-    "Assets/ContextView.png",
-    "Assets/iSAQB_ArchitectureViews.png",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
     "Lectures/DesignApproaches",
