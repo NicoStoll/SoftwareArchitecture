@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md"
+                "file": "Lectures/Documentation Communication/Architecture Documentation.md"
               }
             }
           }
@@ -427,8 +427,8 @@
   },
   "active": "5a694c4e941555c9",
   "lastOpenFiles": [
-    "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/Documentation Communication/arc42.md",
+    "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
