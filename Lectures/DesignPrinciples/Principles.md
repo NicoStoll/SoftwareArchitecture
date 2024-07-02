@@ -2,7 +2,7 @@
 
 ## Information Hiding Principle
 - Encapsulating complexity in components improves **flexibility, stability, testability and understandability**
-Treat components as 'Black Boxes':
+==Treat components as 'Black Boxes':==
 - Hide internals from clients
 - No direct access to internal data --> only through defined interfaces
 - expose only what is needed
@@ -11,7 +11,7 @@ Treat components as 'Black Boxes':
 - **Objective: Manage different problems separately**
 - Domain, sub-domains, sub-tasks, ...
 - Persistence, logic, behavior, presentation, ...
-Split complex systems according to responsibilities
+==Split complex systems according to responsibilities==
 **Separation of Concerns + Information Hiding --> Modularity**
 ### Modularity
 Module:

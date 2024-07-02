@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/SOLID.md"
+                "file": "Lectures/DesignPrinciples/Principles.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
@@ -164,7 +165,6 @@
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/DesignPrinciples/Principles.md",
-    "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/Software Architecture/Architectural Domains.md",
