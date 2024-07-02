@@ -56,4 +56,65 @@ public class CompanyService {
 ### Which design principle can be applied to solve this issue?
 
 
-### Sketch a solution to this problem in Java code (only the  relationsship between Company )
+### Sketch a solution to this problem in Java code (only the  relationsship between CompanyService and SQLRepository has to be refactored and only the relevant code is required).
+
+
+```java
+package public { … }
+
+
+package domain.service 
+public class CompanyService { 
+
+}
+
+package persistence 
+import 
+public class SQLRepository { 
+	… 
+}
+
+package main 
+import 
+import 
+import 
+
+public class Main { 
+	public static void main(String[] args){ 
+	
+	} 	
+}
+```
+
+
+## What are the main elements of Domain Driven Design and how does the newly refactored architecture fit in?
+
+### Main ideas
+
+
+### Architecture compliance
+
+
+## 1.5 Cross-cutting concerns (5 points)
+
+### What are cross-cutting concerns in general and what are the challenges?
+
+
+### State a possible use case for a cross-cutting concern in the previous application.
+
+
+### Name one programmatic way in which cross-cutting concerns are being implemented.
+
+# 1.6 Architecture Quality (8 Points)
+
+### Give an example of a 'Growth Scenario' for the previous application
+
+
+### What is the advantage of using a quality tree to build such a scenario?
+
+
+### How could the Martin-Metrics help in designing such a scenario?
+
+
+### What quality aspect(s) does your scenario cover?
+
