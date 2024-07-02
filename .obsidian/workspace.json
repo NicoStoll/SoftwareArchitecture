@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
+                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
+                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
+                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md"
+                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md"
               }
             }
           }
@@ -211,6 +211,7 @@
   },
   "active": "386c2bd007cbd624",
   "lastOpenFiles": [
+    "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
@@ -228,7 +229,6 @@
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
-    "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Architectural Domains.md",
