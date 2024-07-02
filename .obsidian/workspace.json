@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bca2d446ed687d58",
+        "id": "7565a7269a9bca09",
         "type": "tabs",
         "children": [
           {
-            "id": "50f140af6719e67d",
+            "id": "e7f9cdf0ca3a7051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md"
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md"
               }
             }
           }
@@ -148,13 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50f140af6719e67d",
+  "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
+    "Lectures/Documentation Communication/UML/Package Diagram.md",
+    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
@@ -176,7 +177,6 @@
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Assets/QualityTreeExample_arc42.png",
-    "Lectures/DesignApproaches/Domain Driven Design.md",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",
     "Assets/Pasted image 20240701221428.png",
