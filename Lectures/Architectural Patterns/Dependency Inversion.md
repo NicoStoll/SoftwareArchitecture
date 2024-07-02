@@ -12,6 +12,6 @@
 2. Controller uses an interface, that defines the possible Use Case calls. The interface acts as an **incoming port**
 
 **Advantages:**
-- Domain-Driven-Development
+- [[Domain Driven Design]] & Development
 - Supports Testability: The Application **depends on interfaces instead of implementations** --> implementations can be mocked/exchanged
 - Maps to SpringBoot-Architectures
