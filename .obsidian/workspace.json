@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/UML to Java Code.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/UML to Java Code.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/UML to Java Code.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/UML to Java Code.md"
+                "file": "Lectures/Documentation Communication/arc42.md"
               }
             }
           }
@@ -150,17 +150,17 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/Documentation Communication/UML/Class Diagram.md",
+    "Lectures/Documentation Communication/UML/Activity Diagram.md",
+    "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
-    "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/Documentation Communication/arc42.md",
-    "Lectures/Documentation Communication/UML/Activity Diagram.md",
-    "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Pasted image 20240701221428.png",
     "Assets/MartinMetrics.png",
