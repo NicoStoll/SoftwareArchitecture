@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md"
               }
             }
           }
@@ -148,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",
     "Assets/Pasted image 20240701221428.png",
-    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Software Architecture/Architectural Domains.md",
@@ -181,7 +181,6 @@
     "Assets/UML2Java_2.png",
     "Assets/UML2Java_1.png",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
-    "Assets/UML_SequenceDiagram.png",
     "Lectures/Documentation Communication/UML",
     "Execises/ADR.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
