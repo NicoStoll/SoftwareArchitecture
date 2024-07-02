@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md"
+                "file": "Lectures/DesignPrinciples/Coupling - Types.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/DesignApproaches/View-Based Architecture Development.md",
+    "Lectures/DesignPrinciples/Coupling - Types.md",
+    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
@@ -164,7 +167,6 @@
     "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
-    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/Software Architecture/Architectural Domains.md",
@@ -175,11 +177,9 @@
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Assets/QualityTreeExample_arc42.png",
     "Lectures/DesignApproaches/Domain Driven Design.md",
-    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",
     "Assets/Pasted image 20240701221428.png",
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Assets/MartinMetrics.png",
     "Assets/FanInFanOut.png",
     "Assets/UML_ActivityDiagram.png",

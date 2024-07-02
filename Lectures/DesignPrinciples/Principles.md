@@ -68,8 +68,8 @@ Pros:
 - **Objective: group components with related dependencies together within a module**
 - determining cohesion depends on the **context and domain**
 - A cohesive component:
-	- solves a single problem
-	- contains strongly related functionalities
+	- ==solves a single problem==
+	- contains strongly ==related functionalities==
 	- accommodates interrelated sub-components
 Separation of Concerns + Loose Coupling --> High cohesion
 
