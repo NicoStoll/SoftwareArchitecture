@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Architectural Patterns/Clean Architecture.md"
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/Architectural Patterns/Clean Architecture.md",
+    "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
@@ -183,9 +185,7 @@
     "Assets/UML_ActivityDiagram.png",
     "Assets/UML_ClassDiagram_2.png",
     "Assets/UML_ClassDiagram_1.png",
-    "README.md",
     "Assets/UML2Java_2.png",
-    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
