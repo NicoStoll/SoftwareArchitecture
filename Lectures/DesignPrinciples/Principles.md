@@ -1,3 +1,4 @@
+#important #Design #principles
 
 ## Information Hiding Principle
 - Encapsulating complexity in components improves **flexibility, stability, testability and understandability**

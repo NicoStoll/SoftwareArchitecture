@@ -1,5 +1,5 @@
 
-Architectural Domains are problem spaces with a district scope. Software architecture is only one architectural domain among others.
+Architectural Domains are problem spaces with a distinct scope. Software architecture is only one architectural domain among others.
 
 ![[ArchitecturalDomains.png]]
 
@@ -17,5 +17,5 @@ We want to organize things into **views**
 
 **Model:** Abstraction of reality - for specific purpose (viewpoint), explain or predict reality, omit certain aspects, reduce complexity
 **View:** Sorts models into boxes. 'Views are projections of the software architecture'
-
+(see [[iSAQB-Views]])
 ![[SA_Views.png]]

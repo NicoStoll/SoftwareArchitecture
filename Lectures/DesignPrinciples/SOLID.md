@@ -1,4 +1,4 @@
-#SOLID #Design 
+#SOLID #Design #important
 
 ### Single Responsibility Principle (SRP)
 = Each component is responsible for only one clearly defined task

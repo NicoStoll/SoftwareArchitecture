@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Architecture Formation.md",
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architecture/Architecture Formation.md",
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architecture/Architecture Formation.md",
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architecture/Architecture Formation.md"
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md"
               }
             }
           }
@@ -150,6 +150,12 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/DesignPrinciples/SOLID.md",
+    "Lectures/Software Architect/Interfaces to other Roles.md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/Software Architecture/Architectural Domains.md",
+    "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
@@ -162,9 +168,6 @@
     "Assets/ISO25010.png",
     "Assets/Pasted image 20240701221428.png",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Lectures/Software Architecture/Architectural Domains.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
@@ -184,9 +187,6 @@
     "Assets/UML2Java_2.png",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML",
-    "Execises/ADR.md",
-    "Lectures/DesignApproaches/View-Based Architecture Development.md",
-    "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
     "Lectures/DesignApproaches",

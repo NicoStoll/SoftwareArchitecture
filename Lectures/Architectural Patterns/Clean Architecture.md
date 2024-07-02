@@ -1,3 +1,4 @@
+
 ![[CleanArchitecture.png]]
 
 - Core of the application --> **few changes, stable**
