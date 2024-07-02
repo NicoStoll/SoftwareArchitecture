@@ -15,3 +15,13 @@
 
 
 **To achieve the dependencies only pointing to inner layers it is often necessary to use [[Dependency Inversion]]**
+
+
+### Differences Clean Architecture vs. Layered Architecture
+
+|                         | Layered Architecture                                                              | Clean Architecture                                                                       |
+| ----------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Flexibility             | Less flexible, harder to change underlying layers without affecting higher layers | More flexible, designed to accommodate changes without affecting the core business logic |
+| Focus on Business Rules | Business rules are one of the layers.                                             | Business rules are central, with other layers depending on them                          |
+| Coupling                | Tighter coupling between layers                                                   | Looser coupling, with a clear separation of concerns                                     |
+| Testing                 | Testing may involve multiple layers                                               | Easier to isolate and test core business logic                                           |

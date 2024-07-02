@@ -31,10 +31,10 @@ Microservices can be individually:
 - scaled
 
 *Best practices:*
-1. Decompose by domain: Design microservices around specific business domains or subdomains to ensure clear ownership and responsibility
-2. Single Responsibility Principle (SRP): Each microservice should have a single responsibility, focusing on one aspect
-3. Loose coupling: Minimize dependencies between microservices to allow for independent  development, deployment and scaling
-4. API contracts: Define clear and stable APIs for communication between microservices, enabling interoperability and versioning
+1. Decompose by domain: ==Design microservices around specific business domains== or subdomains to ensure clear ownership and responsibility
+2. Single Responsibility Principle (SRP): Each microservice should have a ==single responsibility==, focusing on one aspect
+3. Loose coupling: ==Minimize dependencies between microservices== to allow for independent  development, deployment and scaling
+4. API contracts: Define clear and ==stable APIs== for communication between microservices, enabling interoperability and versioning
 
 ***Pros:***
 - changeability and flexibility

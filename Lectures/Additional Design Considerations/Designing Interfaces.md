@@ -27,7 +27,7 @@ Interfaces must fulfill user (mostly consumer) requirements
 ### Java Message Services (JMS)
 
 **Key Concepts:**
-- Point-to-Point (P2P) messaging (Queue | One-to-many messaging)
+- ==Point-to-Point (P2P) messaging (Queue | One-to-many messaging)==
 - Storage | delivery | routing through message brokers
 - Message types: text, bytes, objects, maps, streams
 
