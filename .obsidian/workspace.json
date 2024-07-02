@@ -11,8 +11,12 @@
             "id": "e7f9cdf0ca3a7051",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lectures/Architectural Patterns/Clean Architecture.md"
+              }
             }
           }
         ],
@@ -178,9 +186,12 @@
   },
   "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
-    "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
+    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
+    "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
+    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
+    "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
@@ -201,9 +212,6 @@
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/DesignPrinciples/Principles.md",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Assets/QualityTreeExample_arc42.png",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",

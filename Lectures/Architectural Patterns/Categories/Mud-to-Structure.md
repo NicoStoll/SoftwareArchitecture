@@ -16,13 +16,13 @@
 	- encapsulates details, may provide abstraction
 	- provides services to layer above
 	- never depends on a layer above
-- dependencies only between adjacent layers (for strict layering)
+- dependencies ==only between adjacent layers (for strict layering)==
 	- usage directed from upper to lower layer
 	- communication in both ways
 
 ***Pros:***
 - layers are independent (development - distribution of tasks and production - installation and maintenance)
-- implementations are interchangeable
+- implementations are ==interchangeable==
 - unidirectional dependencies (no circular dependencies)
 - easy to understand
 
@@ -62,13 +62,13 @@ Example: ISO OSI model
 
 
 
-***Ports and Adapters (Hexagonal Architecture)***
+==***Ports and Adapters (Hexagonal Architecture)***==
 
 **Core Domain/Domain Logic:** Contains the business logic and application rules. This core should be independent of external technologies
 
 **Ports:** Ports are interfaces that define, how the core domain interacts with the outside world. They serve as an entry point for requests (**incoming ports**) and exit points for sending data (**outgoing ports**)
 
-**Adapters:** Adapters are implementations of the ports that facilitate communication between the core domain and external systems or interfaces
+**Adapters:** Adapters are ==implementations of the ports== that facilitate communication between the core domain and external systems or interfaces
 
 
 ![[PortsAndAdapters.png]]

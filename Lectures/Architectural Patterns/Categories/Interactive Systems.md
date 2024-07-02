@@ -1,9 +1,10 @@
 #pattern 
+
 - direct interaction between users and the system
 - ***Characteristics:***
 	- Responsiveness
 	- User-centric design
-	- event-driven
+	- ==event-driven==
 - Actual pattern: Model-View-Controller
 
 ***Model-View-Controller:***
