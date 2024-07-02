@@ -26,4 +26,14 @@
 
 # Exercise 4 (12 Points)
 
-## Name and briefly describe the most important 6 t
+## Name and briefly describe the most important 6 tasks of a Software Architect according to iSAQB
+
+
+# Exercise 5 (14 Points)
+
+## a) What is the 'System Context' and what are the sources that contribute to the influencing factors?
+
+## b) What is Conways Law? Also give an example for it.
+
+
+## c) Draw a sketch of the Quality model from ISO 25010 with at least 3 quality characteristics (first level) and quality attributes (second level)
