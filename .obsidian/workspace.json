@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+    "Lectures/Documentation Communication/One Page Vision.md",
+    "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
@@ -159,8 +163,6 @@
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
-    "Lectures/Documentation Communication/One Page Vision.md",
-    "Lectures/Documentation Communication/arc42.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Pasted image 20240701221428.png",
     "Assets/MartinMetrics.png",
@@ -185,8 +187,6 @@
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
     "Lectures/DesignApproaches",
