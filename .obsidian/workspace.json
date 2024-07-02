@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
+                "file": "Lectures/DesignApproaches/Design Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
+                "file": "Lectures/DesignApproaches/Design Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
+                "file": "Lectures/DesignApproaches/Design Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md"
+                "file": "Lectures/DesignApproaches/Design Methods.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
-    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
+    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
