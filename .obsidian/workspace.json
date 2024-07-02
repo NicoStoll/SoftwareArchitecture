@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md"
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md"
               }
             }
           }
@@ -209,8 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386c2bd007cbd624",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Assets/ObserverPattern.png",
+    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
@@ -235,8 +237,6 @@
     "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
-    "Lectures/Documentation Communication/UML/Package Diagram.md",
-    "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Assets/QualityTreeExample_arc42.png",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",
