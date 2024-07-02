@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "386c2bd007cbd624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md",
+                "file": "Exams/Exam - Wanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md",
+                "file": "Exams/Exam - Wanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md",
+                "file": "Exams/Exam - Wanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Composite.md"
+                "file": "Exams/Exam - Wanner.md"
               }
             }
           }
@@ -209,19 +196,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386c2bd007cbd624",
+  "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
-    "Lectures/Design Patterns/Structural Patterns/Facade.md",
+    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+    "Assets/IEEE_42010_2011.png",
+    "Exams/Exam - Wanner.md",
+    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
+    "Exams",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
+    "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
-    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Assets/StrategyPattern.png",
     "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
     "Assets/ObserverPattern.png",
-    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
@@ -237,7 +227,6 @@
     "Lectures/Design Patterns/Patterns.md",
     "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
-    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Assets/QualityTreeExample_arc42.png",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",
@@ -245,7 +234,6 @@
     "Assets/MartinMetrics.png",
     "Assets/FanInFanOut.png",
     "Assets/UML_ActivityDiagram.png",
-    "Assets/UML_ClassDiagram_2.png",
     "Lectures/Documentation Communication/UML",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
@@ -255,7 +243,6 @@
     "Lectures/Software Architect",
     "Lectures/QualityGoalsDesignConstraints",
     "Lectures",
-    "Lectures/DesignPrinciples",
     "Untitled.canvas"
   ]
 }
