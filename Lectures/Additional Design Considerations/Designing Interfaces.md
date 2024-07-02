@@ -285,11 +285,11 @@ public class MessageService {
 - Standardized interface definitions
 - Architectural style for designing scalable, stateless and interoperable web services
 - Key Concepts
-	- **Resource-based:** Resources identified by URIs and manipulated using standard HTTP methods
+	- **Resource-based:** ==Resources identified by URIs== and manipulated using standard HTTP methods
 	- **Stateless:** Each request contains all necessary information. Servers don't maintain session state.
 	- **Uniform Interface:** Consistent way for clients and servers to communicate with each other
 	- **Resources:** Entities addressed by URIs
-	- **HTTP Methods:** GET, POST, PUT, DELETE
+	- **HTTP Methods:** ==GET, POST, PUT, DELETE==
 	- **Representations:** Data formats representing resources
 
 ### Simple Object Access Protocol (SOAP)
