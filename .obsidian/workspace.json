@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md"
+                "file": "Lectures/DesignPrinciples/SOLID.md"
               }
             }
           }
@@ -150,6 +150,17 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/Documentation Communication/UML/Package Diagram.md",
+    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
+    "Lectures/Documentation Communication/UML/UML to Java Code.md",
+    "Lectures/Documentation Communication/UML/Activity Diagram.md",
+    "Lectures/Documentation Communication/UML/Class Diagram.md",
+    "Lectures/Documentation Communication/UML/Deployment Diagram.md",
+    "Lectures/Documentation Communication/Architecture Documentation.md",
+    "Lectures/Documentation Communication/arc42.md",
+    "Execises/arc42 Exercise.md",
+    "Lectures/Documentation Communication/One Page Vision.md",
+    "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/DesignPrinciples/Principles.md",
@@ -162,7 +173,6 @@
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
-    "Lectures/Documentation Communication/arc42.md",
     "Assets/QualityTreeExample_arc42.png",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
@@ -170,16 +180,6 @@
     "Assets/ISO25010.png",
     "Assets/Pasted image 20240701221428.png",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
-    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-    "Lectures/Documentation Communication/One Page Vision.md",
-    "Lectures/Documentation Communication/UML/Class Diagram.md",
-    "Lectures/Documentation Communication/UML/Activity Diagram.md",
-    "Lectures/Documentation Communication/UML/UML to Java Code.md",
-    "Lectures/Documentation Communication/UML/Package Diagram.md",
-    "Lectures/Documentation Communication/UML/Deployment Diagram.md",
-    "Lectures/Documentation Communication/Architecture Documentation.md",
     "Assets/MartinMetrics.png",
     "Assets/FanInFanOut.png",
     "Assets/UML_ActivityDiagram.png",

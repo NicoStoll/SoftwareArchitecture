@@ -10,7 +10,7 @@
 - Adapt to change
 
 ### Basic / Additional Documentation
---> **high risk === more extensive documentation**
+--> ==**high risk --> more extensive documentation**==
 
 | Basic                                                                                   | Additional                                                |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------- |
@@ -44,10 +44,10 @@
 ![[Documentation_Interface.png]]
 #### Design Decision
 - understand architecture decisions and their implications
-- user a [[ADR]]
+- user a ==[[ADR]]==
 
 #### Documenting with Diagrams
-- 7 +- 2 Rule (Information humans can hold in short-term memory)
+- ==7 +- 2 Rule== (Information humans can hold in short-term memory)
 - avoid too large or complex diagrams --> rather break down hierarchically
 - **Exception: architectural wallpaper**
 - use standards: UML/BPMN
@@ -55,7 +55,7 @@
 - Provide legend if no standard
 
 #### Configuration Management of Documentation
-- Establish **version control** for documentation
+- Establish ==**version control** for documentation==
 - **Change Log Entry** (Data and version, Author of changes, sections that were changed)
 - periodically validate/review/improve guidelines
 
