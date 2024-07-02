@@ -22,7 +22,7 @@
 
 
 ![[IEEE_42010_2011.png]]
-
+Architecture Description: 
 
 # Exercise 4 (12 Points)
 
