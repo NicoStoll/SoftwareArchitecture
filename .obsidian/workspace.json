@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md"
+                "file": "Lectures/Software Architecture/Software Architecture.md"
               }
             }
           }
@@ -162,6 +162,15 @@
   },
   "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
+    "Lectures/Software Architecture/Architecture Formation.md",
+    "Lectures/Software Architecture/Architectural Domains.md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/Software Architect/Interfaces to other Roles.md",
+    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
+    "Lectures/Design Patterns/Structural Patterns/Composite.md",
+    "Lectures/Design Patterns/Structural Patterns/Facade.md",
+    "Lectures/Design Patterns/Patterns.md",
+    "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
@@ -179,15 +188,6 @@
     "Lectures/Documentation Communication/arc42.md",
     "Execises/arc42 Exercise.md",
     "Lectures/Documentation Communication/One Page Vision.md",
-    "Lectures/Architectural Patterns/Dependency Inversion.md",
-    "Lectures/Architectural Patterns/Architecture Patterns.md",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
-    "Lectures/Software Architecture/Architectural Domains.md",
-    "Lectures/Software Architecture/Architecture Formation.md",
-    "Lectures/Software Architecture/Software Architecture.md",
-    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
-    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Assets/QualityTreeExample_arc42.png",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",
