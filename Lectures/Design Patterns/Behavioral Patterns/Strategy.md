@@ -1,6 +1,7 @@
 #pattern #behavioralPattern
 
-The strategy pattern is a behavioral pattern, that allows you to define a family of algorithms, encapsulare each 
+The strategy pattern is a behavioral pattern, that allows you to define a family of algorithms, encapsulate each one as a separate class and make them interchangeable. This lets the algorithm vary independently from the clients that use it.
+
 ![[StrategyPattern.png]]
 
 ```java
