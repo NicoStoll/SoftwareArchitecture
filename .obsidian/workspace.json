@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/Exam - Deininger.md",
+                "file": "Exams/iSAQB - Mock Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Exam - Deininger.md",
+                "file": "Exams/iSAQB - Mock Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/Exam - Deininger.md",
+                "file": "Exams/iSAQB - Mock Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/Exam - Deininger.md"
+                "file": "Exams/iSAQB - Mock Exam.md"
               }
             }
           }
@@ -196,11 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
-    "Assets/Pasted image 20240702192609.png",
     "Exams/Exam - Wanner.md",
+    "Exams/iSAQB - Mock Exam.md",
     "Exams/Exam - Deininger.md",
+    "Assets/Pasted image 20240702192609.png",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Assets/IEEE_42010_2011.png",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
@@ -234,7 +235,6 @@
     "Assets/Pasted image 20240701221428.png",
     "Assets/MartinMetrics.png",
     "Assets/FanInFanOut.png",
-    "Assets/UML_ActivityDiagram.png",
     "Lectures/Documentation Communication/UML",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
