@@ -1,6 +1,6 @@
 ![[TwinPeakModel.png]]
 
-- Architecture design is an iterative process!
+- Architecture design is an iterative process! (**Twin-peak model**)
 - **Initially** - analyze requirements, design a high level architecture
 - **Refine software architecture in iterations** - analyze requirements in more detail, consider feedback, extend software architecture
 - **Quantify requirements whenever possible, e.g.**

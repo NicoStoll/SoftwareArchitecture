@@ -66,7 +66,7 @@ Components can be further decomposed into subcomponents according to, e.g.: Impo
 
 **Stakeholder Concern:** what interests or bothers someone about a system/component (e.g. goals, interests, required functionalities, expectations, fears, need for regulation, ...).
 
-**Cross-cutting concern:** Impacts many components of the system, therefore difficult to isolate. Often related to technical constraints or functionality that is required in many places (e.g. logging, persistence, caching)
+[[Cross-Cutting Concerns]]: Impact many components of the system, therefore difficult to isolate. Often related to technical constraints or functionality that is required in many places (e.g. logging, persistence, caching)
 
 **(Elastic) Scalability**
 Scalability: Potential to increase performance. Scalability does not automatically improve performance but will allow you to do so. **Horizontal scaling vs. vertical scaling**

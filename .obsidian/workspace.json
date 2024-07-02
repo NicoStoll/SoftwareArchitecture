@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/Software Architecture/Architecture Formation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/Software Architecture/Architecture Formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/Software Architecture/Architecture Formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md"
+                "file": "Lectures/Software Architecture/Architecture Formation.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
