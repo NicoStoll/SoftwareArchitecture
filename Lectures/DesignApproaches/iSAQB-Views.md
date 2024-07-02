@@ -15,7 +15,7 @@
 	- Overview of the most important use cases from an external perspective
 
 ![[ContextView.png]]
-### Building-Block View [[Package Diagram]], [[Class Diagram]] or Component Diagram)
+### Building-Block View - [[Package Diagram]], [[Class Diagram]] or Component Diagram
 - explains the static decomposition of the system into building-blocks (**components, sub-systems, partitions, packages, classes, procedures, functions, ...**)
 - describes building blocks and their relationships (**interfaces, dependencies, associations, relations, ...**)
 - contains static aspects of the system
