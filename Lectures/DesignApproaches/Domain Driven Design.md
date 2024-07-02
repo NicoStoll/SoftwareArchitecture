@@ -1,13 +1,13 @@
 #domaindrivendesign #ddd #important
 
 - definition of the **domain model**
-	- clearly defined domain dictionary (Pillar 1 : Ubiquitous Language)
+	- clearly defined domain dictionary (==Pillar 1 : Ubiquitous Language==)
 	- simplified UML-class diagram
 	- comments describing the behavior
 - Implementation of the model
-	- use a [[Clean Architecture]] (Pillar 2 : Strategic Design)
+	- use a [[Clean Architecture]] (==Pillar 2 : Strategic Design==)
 	- define domain level with entities, value objects and services
-	- support with modules aggregates, factories and repositories (Pillar 3 : Tactic Design)
+	- support with modules, aggregates, factories and repositories (==Pillar 3 : Tactic Design==)
 - Constantly refactor resulting implementation
 	- overall preserve model **integrity**
 

@@ -10,7 +10,7 @@
 	- Interface **Type**
 	- Communication Protocol
 	- Communication Pattern (sync/async, push/pull, ...)
-- Relevance:
+[[iSAQB-Views]]- Relevance:
 	- Entry point and overview for the system being designed
 	- Overview of the ==most important use cases== from an external perspective
 
@@ -36,7 +36,7 @@
 ![[DeploymentView.png]]
 
 ### Run-time View - [[Sequence Diagram]], Activity Diagram or BPMN
-- Building blocks participating in execution of a use case
+- Building blocks participating in ==execution of a use case==
 - How the system components interact at runtime
 - which processes and threads there are, if applicable
 - Relevance:
@@ -46,7 +46,7 @@
 ### With which view to start
 
 Views mostly developed in parallel with incremental updates.
-**Usually, the context view is a good point to start.**
+==**Usually, the context view is a good point to start.**==
 
 1. Start with the **Block View** if...
 	- you have experience and existing knowledge with similar systems
