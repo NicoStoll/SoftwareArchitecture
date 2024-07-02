@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md"
               }
             }
           }
@@ -150,6 +150,15 @@
   },
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
+    "Assets/ISO25010.png",
+    "Assets/Pasted image 20240701221428.png",
+    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+    "Lectures/Software Architecture/Architectural Domains.md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/Software Architect/Interfaces to other Roles.md",
+    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/Documentation Communication/One Page Vision.md",
@@ -160,11 +169,8 @@
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
-    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
-    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
-    "Pasted image 20240701221428.png",
     "Assets/MartinMetrics.png",
     "Assets/FanInFanOut.png",
     "Assets/UML_ActivityDiagram.png",
@@ -175,18 +181,11 @@
     "Assets/UML2Java_1.png",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Assets/UML_SequenceDiagram.png",
-    "Assets/UML_DeploymentDiagram.png",
     "Lectures/Documentation Communication/UML",
-    "ADR.md",
+    "Execises/ADR.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/Design Methods.md",
-    "Domain Dictionary.md",
-    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
-    "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
-    "Lectures/Architectural Patterns/Architecture Patterns.md",
-    "Lectures/Architectural Patterns/Clean Architecture.md",
-    "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",
     "Lectures/DesignApproaches",
