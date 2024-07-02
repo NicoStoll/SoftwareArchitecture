@@ -50,6 +50,7 @@
 - Relevant scenarios
 - **Quality tree**
 
+![[QualityTreeExample_arc42.png]]
 #### Chapter 11: Risk and Technical Debt
 - Known technical risk or technical debt
 - Potential problems internal or external to the system

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md"
+                "file": "Lectures/Software Architecture/Software Architecture.md"
               }
             }
           }
@@ -151,10 +151,15 @@
   "active": "50f140af6719e67d",
   "lastOpenFiles": [
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+    "Lectures/Documentation Communication/arc42.md",
+    "Assets/QualityTreeExample_arc42.png",
+    "Lectures/DesignApproaches/Domain Driven Design.md",
+    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",
     "Assets/Pasted image 20240701221428.png",
-    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
@@ -163,15 +168,12 @@
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/Documentation Communication/One Page Vision.md",
-    "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
-    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
-    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Assets/MartinMetrics.png",
     "Assets/FanInFanOut.png",
     "Assets/UML_ActivityDiagram.png",
@@ -179,12 +181,10 @@
     "Assets/UML_ClassDiagram_1.png",
     "README.md",
     "Assets/UML2Java_2.png",
-    "Assets/UML2Java_1.png",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML",
     "Execises/ADR.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
-    "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",

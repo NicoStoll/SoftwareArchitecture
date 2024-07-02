@@ -1,3 +1,4 @@
+#domaindrivendesign #ddd #important
 
 - definition of the **domain model**
 	- clearly defined domain dictionary (Pillar 1 : Ubiquitous Language)

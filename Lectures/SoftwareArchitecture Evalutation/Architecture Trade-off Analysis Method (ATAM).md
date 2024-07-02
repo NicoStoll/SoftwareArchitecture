@@ -14,7 +14,6 @@
 - quality criteria
 --> understanding of architectural impacts on system quality
 
-
 ### Phases
 
 #### Phase 0: Preparation
@@ -38,4 +37,10 @@
 
 #### Phase 2: Stakeholder-based analysis
 - brainstorming and prioritization of scenarios
-- analysis of architectural appr
+- analysis of architectural approaches
+- presentation of the results
+
+#### Phase 3: Post-Processing
+- collect and document results
+- plan follow-up
+- refine process
