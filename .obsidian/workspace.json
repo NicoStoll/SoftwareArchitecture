@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Design Patterns/Behavioral Patterns/Observer.md"
+                "file": "Lectures/Design Patterns/Behavioral Patterns/Strategy.md"
               }
             }
           }
@@ -211,6 +211,8 @@
   },
   "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Assets/StrategyPattern.png",
+    "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
     "Assets/ObserverPattern.png",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
@@ -220,7 +222,6 @@
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
-    "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
@@ -246,7 +247,6 @@
     "Assets/UML_ActivityDiagram.png",
     "Assets/UML_ClassDiagram_2.png",
     "Assets/UML_ClassDiagram_1.png",
-    "Assets/UML2Java_2.png",
     "Lectures/Documentation Communication/UML",
     "Lectures/SoftwareArchitecture Evalutation",
     "Lectures/Documentation Communication",

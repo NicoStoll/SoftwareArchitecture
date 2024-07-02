@@ -1,6 +1,6 @@
 #pattern #behavioralPattern
 
-The Observer pattern is a behavioral pattern, where an object, know
+The Observer pattern is a behavioral pattern, where the subject maintains a list of its dependents, known as observers. The observers are notified of any state changes, usually by calling one of their methods.
 
 ![[ObserverPattern.png]]
 
