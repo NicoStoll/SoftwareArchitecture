@@ -30,10 +30,13 @@
 # Exercise 4 (12 Points)
 
 ## Name and briefly describe the most important 6 tasks of a Software Architect according to iSAQB
-- business case
+
+- establish business case
 - create architecture
 - evaluate architecture
-- docu
+- document architecture
+- guide & help implementation
+- refine requirements
 
 # Exercise 5 (14 Points)
 
