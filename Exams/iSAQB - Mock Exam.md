@@ -76,4 +76,32 @@ d) enable a basic understanding of structures and concepts for the development t
 
 <details> <summary>Click to show answer</summary> <p>b, d</p> </details>
 
-# 9 - Put yourself in the position of a software architect for a large, 
+# 9 - Put yourself in the position of a software architect for a large, distributed business application in the banking or insurance domain. Which of the following statements is true and which is false? (1 point)
+
+a) The architect collaborates with the stakeholders to determine where the requirements and constraints will change often (e.g. business processes, technologies), and designs that architecture such that changes can occur without requiring extensive restructuring of the software architecture
+b) Required product qualities should drive your architectural decisions
+c) The software architecture can be completely independent of the hardware and infrastructure
+
+<details> <summary>Click to show answer</summary> <p>a, b</p> </details>
+
+# 10 - What are the three most important responsibilities as a software architect with respect to requirements? (2 points)
+
+a) Support the business people to specify explicit and concrete quality requirements
+b) Help to identify new business opportunities based on your technology know-how
+c) Reject business requirements that contain technical risks.
+d) Capture all business requirements in a terminology that can be understood by your development team
+e) Check requirements for technological feasibility
+
+<details> <summary>Click to show answer</summary> <p>a, b, e</p> </details>
+
+# 11 - You are responsible as an architect for keeping a legacy system up and running according to the ongoing requirements of your business. What are the THREE most important action items on your agenda? (2 points)
+
+a) Negotiating the maintenance budget for your team
+b) Assuring up-to-date documentation of the deployed system
+c) Analyzing the impact of new requirements on the current system
+d) Encouraging the team members to learn new programming languages
+e) Suggesting technology updates in addition to the business requirements to your management
+
+<details> <summary>Click to show answer</summary> <p>b, c, e</p> </details>
+
+# 12 - Which of the following statements regarding architecture decisions are tr
