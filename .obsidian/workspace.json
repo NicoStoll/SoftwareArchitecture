@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
               }
             }
           }
@@ -211,6 +211,10 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+    "Lectures/Software Architect/Interfaces to other Roles.md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Software Architecture.md",
@@ -218,9 +222,7 @@
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Exams/Exam - Wanner.md",
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
@@ -232,14 +234,12 @@
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Exams/Exam - Deininger.md",
-    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
     "Exams",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
-    "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Assets/StrategyPattern.png",
     "Assets/ObserverPattern.png",
     "Assets/QualityTreeExample_arc42.png",
