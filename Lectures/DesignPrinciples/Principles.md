@@ -41,13 +41,13 @@ Pros:
 	- Apply design principles and patterns
 	- Define concrete dependencies only at runtime or installation time (defer building)
 2. Structural Dependencies
-	- Polymorphism, delegation
+	- ==Polymorphism, delegation==
 	- [[Facade]], Decorator Pattern
 3. Instantiation dependencies
 	- [[Simple Factory]], Proxy Pattern
 	- [[Dependency Injection]]
 4. Call dependencies
-	- Messaging, with asynchronous
+	- Messaging, with ==asynchronous==
 	- Avoid cyclical relationships
 	- Restrict communication
 	- Use abstraction [[Designing Interfaces]]
