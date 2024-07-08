@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md",
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md",
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md",
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md"
+                "file": "Lectures/Software Architect/Tasks - Software Architect.md"
               }
             }
           }
@@ -211,6 +211,7 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
@@ -223,7 +224,6 @@
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
-    "Lectures/Software Architecture/Architectural Domains.md",
     "Exams/iSAQB - Mock Exam.md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
