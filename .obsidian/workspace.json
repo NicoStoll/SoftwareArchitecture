@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md"
               }
             }
           }
@@ -209,13 +208,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8edf6a13c3873d8",
+  "active": "aca0532928988020",
   "lastOpenFiles": [
-    "Lectures/DesignPrinciples/Design Principles Overview.md",
-    "Lectures/DesignPrinciples/Principles.md",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+    "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/DesignPrinciples/Design Principles Overview.md",
+    "Lectures/DesignPrinciples/SOLID.md",
     "Exams/Exam - Wanner.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/One Page Vision.md",

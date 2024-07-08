@@ -89,9 +89,9 @@ Separation of Concerns + Loose Coupling --> High cohesion
 ## Robustness Principle - Postel's Law
 **Goal: Tolerate errors**
 Be precise and strict, when designing your components, BUT
-- tolerate errors in other components
-- be able to recover from errors
-- degrade gracefully
+- ==tolerate errors== in other components
+- be able to ==recover== from errors
+- ==degrade gracefully==
 
 ## Abstraction
 Identify useful generalizations
