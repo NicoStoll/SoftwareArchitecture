@@ -302,7 +302,10 @@ e) local and remote calls to an interface should behave identically in all aspec
 
 a) Architectural decisions can impact the structure of the building block or components
 b) Software architects shall justify all design decisions in writing.
-c) Architectural decisions
+c) Architectural decisions can have interdependencies between each other
+d) Tradeoffs between conflicting quality requirements should be explicit decisions.
+
+<details> <summary>Click to show answer</summary> <p>a, b, d</p> </details>
 
 # 34 - 
 
