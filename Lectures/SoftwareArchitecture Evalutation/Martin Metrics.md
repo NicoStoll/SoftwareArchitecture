@@ -13,7 +13,7 @@ A = 1 --> completely abstract package
 
 **Fan-in / Afferent Coupling** - the number of classes outside this package that depend on classes in this package, indicator for the **responsibility** of the package
 
-**Fan-out / Efferent Coupling** - the number of classes within this package that depend on classes outside the package. Indicator for the **independence** of the package
+**Fan-out / Efferent Coupling** - the number of ==classes within this package== that depend on classes outside the package. Indicator for the **independence** of the package
 ![[FanInFanOut.png]]
 
 ### **Instability** 

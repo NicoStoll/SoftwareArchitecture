@@ -3,7 +3,7 @@
 - quality attributes are often organized hierarchically
 - top-level attributes (e.g. maintainability) are broken down into **sub-attributes** (e.g. modularity, testability)
 
-### Quality Model - ISO25010
+### Quality Model - ==ISO25010==
 
 ![[ISO25010.png]]
 
@@ -40,8 +40,8 @@ Quality model instance for a specific system
 - Requirements
 	- Rate of change
 - Source Code
-	- Coupling and cohesion
-	- Size in lines of code (LoC)
+	- ==Coupling and cohesion==
+	- Size in lines of code ==(LoC)==
 	- Complexity (cyclomatic complexity)
 	- Dependencies between building blocks
 - Failure
@@ -52,7 +52,7 @@ Quality model instance for a specific system
 	- Number of managers, developers, testers
 - Test
 	- Number of tests
-	- Test coverage
+	- ==Test coverage==
 - Design
 	- Dependencies
 	- Abstraction

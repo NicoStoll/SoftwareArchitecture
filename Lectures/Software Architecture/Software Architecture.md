@@ -11,12 +11,12 @@ The <span style="color:rgb(255, 0, 0)">fundamental organization</span> of a syst
 3. **graceful:** well-structured design, great UX
 
 **Good Software Architecture**
-- Creates a meaningful division of components (Abstraction from complex details: [[Principles]], Isolate [[Cross-Cutting Concerns]] )
+- Creates a meaningful ==division of components== (Abstraction from complex details: [[Principles]], Isolate [[Cross-Cutting Concerns]] )
 - Shows that functional and quality [[Requirements]] will or can be fulfilled over the entire system
 - Helps the stakeholders understand the system
 - Specifies necessary implementation measures
-- Defined design guidelines to ensure conceptual integrity
-- Documents and provides rationale for design decision
+- Defined ==design guidelines== to ensure conceptual integrity
+- ==Documents== and provides rationale for ==design decision==
 
 ### Objectives and Benefits of Software Architecture
 
@@ -30,10 +30,10 @@ The <span style="color:rgb(255, 0, 0)">fundamental organization</span> of a syst
 
 **Benefits:**
 - Ensure that requirements and quality goals are met
-- Ensure a consistent solution: similar problems are solved similarly
-- Ensure understandability of the system and design decisions
-- Focus on system longevity and facilitate system maintenance
-- Support of the entire life cycle of a software system
+- Ensure a ==consistent== solution: similar problems are solved similarly
+- Ensure ==understandability== of the system and design decisions
+- Focus on system ==longevity== and facilitate system maintenance
+- Support of the ==entire life cycle== of a software system
 - Enable reuse
 
 ### Key Terms
