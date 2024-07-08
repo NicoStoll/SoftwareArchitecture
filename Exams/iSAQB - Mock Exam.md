@@ -241,15 +241,41 @@ c) The components of the system that contain redundant code can be improved inde
 d) Adherence to DRY leads to additional attack vectors in IT security
 e) Applying the layer patterns allows a consistent application of the DRY principle
 
-<details> <summary>Click to show answer</summary> <p>a, b, c</p> </details>
+<details> <summary>Click to show answer</summary> <p>b, c</p> </details>
 
-# 27 - 
+# 27 - You can communicate aspects of your software architecture verbally and/or in writing. How do these variants correlate? Decide for each of the following statements whether it is true or false.  (2 points)
 
-# 28 - 
+a) Verbal communication should supplement written documentation
+b) Feedback to architecture decisions should always be done in writing to ensure traceability
+c) Written  documentation should always precede verbal communication
+d) Architects  should pick one variant (verbal or written) and stick to  this choice during the whole development.
 
-# 29 -
+<details> <summary>Click to show answer</summary> <p>a</p> </details>
 
-# 30 - 
+# 28 - Which of the following statements about notations for architectural views is true and which is false? (2 points)
+
+a) BPMN should only be used by Business Analysts and not for architecture communication
+b) UML deployment models are the only way to document the mapping of software components to infrastructure
+c) UML Package Diagrams can be used to capture the building-block view of software architectures
+d) As long as the notation is explained any notation can be sufficient to describe building block structures and collaboration.
+
+<details> <summary>Click to show answer</summary> <p>c, d</p> </details>
+
+# 29 - Which architectural views have the most practical application for developing software architectures? Select the two best fitting answers ( 1 point)
+
+a) Pattern view
+b) Observer view
+c) Building block view (Component view)
+d) Deployment view
+
+<details> <summary>Click to show answer</summary> <p>c, d</p> </details>
+
+# 30 - The context view might contain a business context and a technical context, or both. Pick the two most appropriate answers that apply to the technical context. (1 point)
+
+a) The technical context contains the physical channels between your system and its environment
+b) The technical context contains all the infrastructure on which the components of your system are deployed.
+c) The technical context should include hardware pricing or pricing of cloud services used as infrastructure for your architecture.
+d) The technical
 
 # 31 - 
 

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "aca0532928988020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam - Wanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a21d5e71fc21979f",
             "type": "leaf",
             "state": {
@@ -199,6 +211,7 @@
   "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
     "Exams/Exam - Wanner.md",
+    "Exams/iSAQB - Mock Exam.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Architectural Domains.md",
@@ -210,7 +223,6 @@
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
-    "Exams/iSAQB - Mock Exam.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Exams/Exam - Deininger.md",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
