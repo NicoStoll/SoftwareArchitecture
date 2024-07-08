@@ -275,13 +275,34 @@ d) Deployment view
 a) The technical context contains the physical channels between your system and its environment
 b) The technical context contains all the infrastructure on which the components of your system are deployed.
 c) The technical context should include hardware pricing or pricing of cloud services used as infrastructure for your architecture.
-d) The technical
+d) The technical context contains information about the chosen programming language as well as frameworks used to implement your software architecture
+e) The technical context might contain different elements that the business context
 
-# 31 - 
+<details> <summary>Click to show answer</summary> <p>a, e</p> </details>
 
-# 32 - 
+# 31 - Software Architecture documentation could contain descriptions of cross-cutting concerns. Pick the TWO best reasons why documentation of cross-cutting concerns is useful. (1 point)
 
-# 33 - 
+a) Cross-cutting concerns should focus on the domain and be free of technical information.
+b) Aspect or concepts that are used in multiple parts of your software architecture should be described in a non-redundant way.
+c) Cross-cutting concepts can be reused in more products within the same organization.
+d) Cross-cutting concepts should be implemented by specialists. Therefore, separate documentation is useful.
+
+<details> <summary>Click to show answer</summary> <p>b, c</p> </details>
+# 32 - What are guidelines for good interface design? Check which of the following statements are true and which are false. (2 points)
+
+a) use of interfaces should be easy to learn
+b) The client code should be reasonably easy to understand in relation to the functional complexity
+c) An interface should provide access to a comprehensive set of implementation details
+d) Interface specifications should contain functional and nonfunctional aspects
+e) local and remote calls to an interface should behave identically in all aspects
+
+<details> <summary>Click to show answer</summary> <p>a, b, d</p> </details>
+
+# 33 - One definition says "Software architecture is the sum  of all the decisions you have taken during development.". Check which of the following statements about architectural/design decisions are true and which are false (1 point)
+
+a) Architectural decisions can impact the structure of the building block or components
+b) Software architects shall justify all design decisions in writing.
+c) Architectural decisions
 
 # 34 - 
 
