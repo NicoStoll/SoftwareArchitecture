@@ -104,4 +104,31 @@ e) Suggesting technology updates in addition to the business requirements to you
 
 <details> <summary>Click to show answer</summary> <p>b, c, e</p> </details>
 
-# 12 - Which of the following statements regarding architecture decisions are tr
+# 12 - Which of the following statements regarding architecture decisions are true, which are false? (1 point)
+
+a) Architecture decisions never need to be written down because they are already known to the development team
+b) An architecture decision record helps to make the decisions context understood
+c) Once a decision has been made on a central or fundamental framework (e.g. persistence framework), that decision must not be changed
+d) Quality requirements help significantly with architecture decisions
+
+<details> <summary>Click to show answer</summary> <p>b, d</p> </details>
+
+# 13 - Decide for each of the following statements whether it is true or false. (1 point)
+
+a) Each iteration of an agile development approach could have an impact on the fundamental architecture decision.
+b) The total effort spent on architectural work is much higher in iterative projects compared to waterfall projects
+c) Agile projects do not need architecture documents since the development team uses daily standup-meetings to communicate decisions
+d) If your systems consist of a set of microservices there is no need for a central architecture document since each service is free to choose its technologies
+
+<details> <summary>Click to show answer</summary> <p>a</p> </details>
+
+# 14 - Which of the following statements regarding project goals and architectural goals is true and which is false. (2 points)
+
+a) Project goals can include functional requirements as well as quality requirements
+b) Architectural goals are derived from the quality requirements for the system or product
+c) Business stakeholders should concentrate on business goals and not interfere with architectural goals
+d) To avoid conflicts, business goals and architectural goals should be non-overlapping
+
+<details> <summary>Click to show answer</summary> <p>a, b</p> </details>
+
+# 15 - What does the rule "explicit, not implicit" mean for architecture work? Choose the TWO best-fitting 
