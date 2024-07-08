@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
+                "file": "Lectures/Documentation Communication/UML/Package Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
+                "file": "Lectures/Documentation Communication/UML/Package Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
+                "file": "Lectures/Documentation Communication/UML/Package Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/UML/Class Diagram.md"
+                "file": "Lectures/Documentation Communication/UML/Package Diagram.md"
               }
             }
           }
@@ -211,6 +211,11 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/Documentation Communication/UML/Deployment Diagram.md",
+    "Lectures/Documentation Communication/UML/Class Diagram.md",
+    "Lectures/Documentation Communication/UML/Activity Diagram.md",
+    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
+    "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
@@ -232,11 +237,6 @@
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/DesignPrinciples/Design Principles Overview.md",
-    "Lectures/DesignPrinciples/Principles.md",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Exams/Exam - Deininger.md",
-    "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
