@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Exams/Exam - Wanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Exams/Exam - Wanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Exams/Exam - Wanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md"
+                "file": "Exams/Exam - Wanner.md"
               }
             }
           }
@@ -196,23 +197,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8edf6a13c3873d8",
+  "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/DesignPrinciples/Design Principles Overview.md",
+    "Exams/Exam - Wanner.md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-    "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/SOLID.md",
-    "Exams/Exam - Wanner.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/Software Architecture/Software Architecture.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
