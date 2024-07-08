@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md"
               }
             }
           }
@@ -211,6 +211,8 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Exams/Exam - Wanner.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
@@ -238,8 +240,6 @@
     "Exams",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Design Patterns/Structural Patterns/Facade.md",
-    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
-    "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Assets/StrategyPattern.png",
     "Assets/ObserverPattern.png",
     "Assets/QualityTreeExample_arc42.png",
