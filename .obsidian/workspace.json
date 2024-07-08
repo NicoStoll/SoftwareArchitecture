@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/iSAQB - Mock Exam.md",
+                "file": "Exams/Exam - Wanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/iSAQB - Mock Exam.md",
+                "file": "Exams/Exam - Wanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/iSAQB - Mock Exam.md",
+                "file": "Exams/Exam - Wanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/iSAQB - Mock Exam.md"
+                "file": "Exams/Exam - Wanner.md"
               }
             }
           }
@@ -198,14 +198,17 @@
   },
   "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Exams/Exam - Wanner.md",
-    "Exams/Exam - Deininger.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Exams/iSAQB - Mock Exam.md",
-    "Assets/Pasted image 20240702192609.png",
+    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+    "Exams/Exam - Deininger.md",
+    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+    "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
     "Exams",
@@ -222,13 +225,10 @@
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
-    "Lectures/Software Architecture/Architectural Domains.md",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
     "Assets/QualityTreeExample_arc42.png",
     "Assets/QualityScenario.png",
     "Assets/ISO25010.png",

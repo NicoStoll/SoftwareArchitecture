@@ -2,6 +2,9 @@
 # Exercise 1 (10 Points)
 ## a) Give 5 examples, how software architecture impacts quality attributes
 
+- **Performance** - A Client-Server-Architecture distributes tasks between client and server. This can lead to optimized resource usage and improved response times
+- **Scalability** - Microservice Architectures allow individual services to scale independently based on demand.
+- **Testability** - Clean Architecture allows easier isoloation and therefore testing of the domain logic
 
 ## b) Give 3 examples why design decisions need to be explained
 
