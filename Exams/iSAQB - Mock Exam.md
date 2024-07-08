@@ -352,6 +352,16 @@ f) Organizational structure
 a) High coupling of components
 b) Names of public methods do not reflect their purpose
 c) Missing comments
-d) Clusters of er
+d) Clusters of errors in certain building blocks of the system
+e) Number of test cases per component
 
-# 39 - 
+<details> <summary>Click to show answer</summary> <p>a, d</p> </details>
+# 39 - You try to quantitatively analyze your architecture. Which three of the following properties can you measure reliably in your software architecture? Pick the three best fitting answers. (1 point)
+
+a) Size of building blocks (LoC)
+b) Change rate of the source code of components
+c) Cohesion of the architectural components
+d) Security level of a component
+e) Number of the developers that contributed to a specific component
+
+<details> <summary>Click to show answer</summary> <p>a, b, e</p> </details>
