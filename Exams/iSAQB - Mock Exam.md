@@ -131,4 +131,49 @@ d) To avoid conflicts, business goals and architectural goals should be non-over
 
 <details> <summary>Click to show answer</summary> <p>a, b</p> </details>
 
-# 15 - What does the rule "explicit, not implicit" mean for architecture work? Choose the TWO best-fitting 
+# 15 - What does the rule "explicit, not implicit" mean for architecture work? Choose the TWO best-fitting answers. (1 point)
+
+a) Architects should avoid recursive structures and replace them by explicit loops
+b) Architects should make the assumptions leading to decisions explicit.
+c) Architects should explicitly insist on natural language explanations (i.e. comments) for each building block
+d) Architects should explicitly insist on written or at least verbal justification for development effort estimations from their team
+e) Architects should make perquisites for their decisions explicit.
+
+<details> <summary>Click to show answer</summary> <p>b, e</p> </details>
+
+# 16 - Identify the THREE most appropriate examples for typical categories of software systems
+
+a) Batch system
+b) Interactive online system
+c) Linnes system
+d) Embedded real-time system
+e) Integration test system
+
+<details> <summary>Click to show answer</summary> <p>a, b, d</p> </details>
+
+# 17 - There are many approaches that lead to a software architecture. Which of the following are the THREE most often found in practice? (1 point)
+
+a) User interface driven design
+b) Domain Driven Design
+c) View based architecture development
+d) Bottom-up design
+e) Majority voting
+
+<details> <summary>Click to show answer</summary> <p>b, c, d</p> </details>
+
+# 18 - Several architecture development methods suggest a view-based approach. Which THREE of the following views are most often used? (1 point)
+
+a) Physical database view
+b) Context view
+c) Building block/Component view
+d) Test-driven view
+e) Configuration view
+f) Runtime view
+
+<details> <summary>Click to show answer</summary> <p>b, c, f</p> </details>
+
+# 19 - When documenting a building block of your software architecture, which tow information should the Blackbox description contain? (1 point)
+
+a) Public interfaces
+b) Responsibility of the building block
+c) Internal structure of the bui
