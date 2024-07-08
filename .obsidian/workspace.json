@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aca0532928988020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8edf6a13c3873d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,13 +196,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aca0532928988020",
+  "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Exams/Exam - Wanner.md",
@@ -235,7 +224,6 @@
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Documentation Communication/arc42.md",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
