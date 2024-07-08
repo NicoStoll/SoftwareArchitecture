@@ -4,14 +4,21 @@
 
 - **Performance** - A Client-Server-Architecture distributes tasks between client and server. This can lead to optimized resource usage and improved response times
 - **Scalability** - Microservice Architectures allow individual services to scale independently based on demand.
-- **Testability** - Clean Architecture allows easier isoloation and therefore testing of the domain logic
+- **Testability** - Clean Architecture allows easier isolation and therefore testing of the core business logic
+- **Security** - Zero Trust Architecture ensures that all access requests are authenticated, authorized and encrypted, leading to higher security
+- **Maintainability** - Layered Architecture organizes the system into layers which can be developed and maintained independently.
 
 ## b) Give 3 examples why design decisions need to be explained
 
+- **Team collaboration and understanding** - team should have an understanding of the rationale behind decisions. This promotes coherent implementation.
+- **Ensure future maintainability** - Helps to understand the rationale behind decisions, making it easier to grasp trade-offs and potential impact of decisions.
+- **Justify trade-offs to stakeholders** - Explaining to the stakeholders the trade-offs of an architecture decision, helps stakeholders understand benefits and compromises
 
 ## c) Why is it important to provide the requirements and rationale behind a design decision?
 
-
+- **Ensure alignment with stakeholders needs** - by outlining the requirements, the design decision is clearly linked to the specific needs of the stakeholders
+- **Justifying and defending design choices** - clear documentation of requirements and rationale helps justify the design choice to stakeholders
+- ****
 
 # Exercise 2 (12 Points)
 
