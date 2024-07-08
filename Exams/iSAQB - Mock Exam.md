@@ -176,4 +176,62 @@ f) Runtime view
 
 a) Public interfaces
 b) Responsibility of the building block
-c) Internal structure of the bui
+c) Internal structure of the building block
+d) Specification of the implementation details
+
+<details> <summary>Click to show answer</summary> <p>a, b</p> </details>
+
+# 20 - Which prerequisites have to be fulfilled before developing a software architecture? Pick the TWO most appropriate answers. (1 point)
+
+a) The requirements specification for the system is complete, detailed and consistent.
+b) The most important qualities for the system are known.
+c) Organizational constraints are known
+d) The programming language has been selected
+e) Hardware for the development team is available
+
+<details> <summary>Click to show answer</summary> <p>b, c</p> </details>
+
+# 21 - Which factors can influence the design of a software architecture? Pick the THREE most appropriate answers. (1 point)
+
+a) Political
+b) Organizational
+c) Technical
+d) Virtual
+
+<details> <summary>Click to show answer</summary> <p>a, b, c</p> </details>
+
+# 22 - 
+
+# 23 -
+
+# 24 - 
+
+# 25 - 
+
+# 26 - 
+
+# 27 - 
+
+# 28 - 
+
+# 29 -
+
+# 30 - 
+
+# 31 - 
+
+# 32 - 
+
+# 33 - 
+
+# 34 - 
+
+# 35 - 
+
+# 36 - 
+
+# 37 - 
+
+# 38 - 
+
+# 39 - 
