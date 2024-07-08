@@ -46,10 +46,10 @@
 
 - **establish business case** - consider costs and benefits, and business value from client perspective, create and evaluate economically viable solutions
 - **design/select architecture** - select potential architecture from existing solutions (compare costs and benefits, consider integration with existing systems), choose technologies (reuse proven frameworks, libraries, ...), design the system and thereby its architecture (define interfaces and dependencies)
-- **evaluate architecture** - Analyze and evaluate software architecture and architectural decisions(quantitative and qualitative assessment, adherence to requirements, identify and )
-- document architecture
-- guide & help implementation
-- refine requirements
+- **evaluate architecture** - Analyze and evaluate software architecture and architectural decisions(quantitative and qualitative assessment, adherence to requirements, identify and mitigate risks)
+- **document architecture** - document and communicate architecture based on views, architectural patterns and cross-cutting concerns
+- **guide & help implementation** - ensure compliance of the implementation, lead and guide developers
+- **clarify requirements** - Identify, gather, clarify, refine and scrutinize requirements, identify contradictions in requirements
 
 # Exercise 5 (14 Points)
 
