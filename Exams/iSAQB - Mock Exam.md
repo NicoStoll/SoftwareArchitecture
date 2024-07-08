@@ -205,15 +205,43 @@ d) Virtual
 a) Runtime efficiency (performance)
 b) Flexibility in modifying or changing the system
 c) Flexibility at runtime (configurability)
-d) Non-repu
+d) Non-reputability
 
-# 23 -
+<details> <summary>Click to show answer</summary> <p>b</p> </details>
 
-# 24 - 
+# 23 - Which type of problems provide a good fit for the Pipes & Filter Pattern? Select the best TWO options. (1 point)
 
-# 25 - 
+a) Management of global application state
+b) IT systems which process data streams
+c) Decoupling multiple steps of an execution
+d) Temporal decoupling of an application
 
-# 26 - 
+<details> <summary>Click to show answer</summary> <p>b, c</p> </details>
+
+# 24 - Which goals are you trying to achieve with the dependency inversion principle? Select ONE option (1 point)
+
+a) Big building blocks shall not depend on small building blocks
+b) Components shall be able to create dependent components more easily
+c) Building blocks shall only depend on each other via abstractions.
+
+<details> <summary>Click to show answer</summary> <p>c</p> </details>
+# 25 - What are characteristic of tight(high) or loose(low) coupling? (1 point)
+
+a) Building blocks directly call dependent building blocks, i.e. without using indirect calls via interfaces or abstractions.
+b) Building blocks use shared complex data structures
+c) Building blocks use a shared table (for read- and write operations) within a relational database
+d) When designing building blocks, you have consistently applied the dependency inversion principle
+
+<details> <summary>Click to show answer</summary> <p>Tight coupling: a, b, c. Loose coupling: d</p> </details>
+# 26 - Which two statements about the principle "Don't repeat yourself" (DRY) fit best? In other words: What could happen if parts of the source code or configuration do exist in multiple copies in the system? (2 points)
+
+a)  DRY reduces security
+b) Strict adherence to DRX could lead to higher coupling.
+c) The components of the system that contain redundant code can be improved independently of each other
+d) Adherence to DRY leads to additional attack vectors in IT security
+e) Applying the layer patterns allows a consistent application of the DRY principle
+
+<details> <summary>Click to show answer</summary> <p>a, b, c</p> </details>
 
 # 27 - 
 
