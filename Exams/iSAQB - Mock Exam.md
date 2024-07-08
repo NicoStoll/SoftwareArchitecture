@@ -26,3 +26,11 @@ d) For each quality goal there should be an explicitly documented concept.
 e) Concepts are means to increase consistency
 f) A concept can define constraints for the implementation of many building blocks
 g) a concept might be implemented by a single building block
+
+# 4 - In your project, three architects and seven developers are working on the documentation of the software architecture. Which methods are appropriate in order to achieve a consistent and adequate documentation and which are not?
+
+a) The lead architect coordinates the creation of the documentation
+b) Identical templates are used for the documentation
+c) All parts of the documentation are automatically extracted from the source code
+
+# 5 - which FOUR of the following techniques are best suited to illustrate the workflow or behavior of the system at ru
