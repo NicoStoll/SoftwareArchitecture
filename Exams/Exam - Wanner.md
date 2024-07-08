@@ -18,13 +18,16 @@
 
 - **Ensure alignment with stakeholders needs** - by outlining the requirements, the design decision is clearly linked to the specific needs of the stakeholders
 - **Justifying and defending design choices** - clear documentation of requirements and rationale helps justify the design choice to stakeholders
-- ****
+- **Informed decision making** - rationale behind design decision
 
 # Exercise 2 (12 Points)
 
 ## Name 4 different types of interfaces and their contract. Explain each type and five an example for each
 
-
+- **Standard Interface** - JDBC (JDBC provides a standard interface for database access in Java. The interface is defined externally by the JDBC API, which both the caller and callee adhere to)
+- **Independent Interface** - Microservice Architecture with API Gateway (In a microservice architecture, different services may have their own interfaces. An API Gateway can act as an adapter that connects these independent interfaces, providing a unified point of entry) 
+- **Provided Interface** - 
+- **Required Interface** - 
 
 # Exercise 3 (12 Points)
 
