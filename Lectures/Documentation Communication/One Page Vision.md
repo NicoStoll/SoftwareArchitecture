@@ -5,7 +5,7 @@ A one-page vision of the system, describing:
 	- use domain terms
 	- list the five most important domain terms
 - Usage and **users** of the system
-	- What type of usage should be achieved? (may be more than one)
+	- What ==type of usage== should be achieved? (may be more than one)
 		- **interactive & operational** - transform current data, highly available and performance
 		- **decision support** - read/evaluate current data, lower availability and performance
 		- **batch** - pre- or post-processing, interaction with other systems
@@ -15,11 +15,11 @@ A one-page vision of the system, describing:
 		- Users
 		- Negative stakeholders
 - **UI** and **system interface**
-	- UI
+	- ==UI==
 		- form-based /object-oriented / command-line /special devices
 		- adaptable to experience /user groups
 		- installer /user
-	- System interface
+	- ==System interface==
 		- to/from other systems, performance, stability changeability
 		- data-interface
 		- functional interface: (a)synchronous, definition, fault-tolerance

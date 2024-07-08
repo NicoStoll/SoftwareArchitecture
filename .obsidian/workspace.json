@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
+                "file": "Lectures/Documentation Communication/UML/Class Diagram.md"
               }
             }
           }
@@ -211,7 +211,12 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/Documentation Communication/arc42.md",
+    "Lectures/Documentation Communication/Architecture Documentation.md",
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/Documentation Communication/One Page Vision.md",
+    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
@@ -222,9 +227,6 @@
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Exams/Exam - Wanner.md",
-    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Lectures/Documentation Communication/arc42.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Exams/iSAQB - Mock Exam.md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
@@ -237,9 +239,7 @@
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
-    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
     "Exams",
-    "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Assets/StrategyPattern.png",
     "Assets/ObserverPattern.png",
     "Assets/QualityTreeExample_arc42.png",

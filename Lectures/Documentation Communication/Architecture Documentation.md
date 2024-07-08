@@ -18,10 +18,10 @@
 | Basic assumptions, decisions, technologies, and concepts                                | For developers \| administrators \| managers \| customers |
 
 ### Best Practices
-- **Tailor content** to the reader's knowledge level and needs
+- **Tailor content** to the ==reader's knowledge level and needs==
 - be clear and concise: simple language, no jargon, short sentences, no repetition
 - Clear structure and flow, headings, subheadings and bullet points
-- prefer active voice over passive
+- prefer ==active== voice over passive
 - use examples to illustrate complex concepts
 - use **diagrams, tables and screenshots** to complement text
 - Maintain **consistency** in terminology, formatting and style

@@ -12,7 +12,7 @@
 - **Standards:** Process model, Quality standard, Test, Tools
 - **Resources:** Contract (fixed-price), Time schedule and release plan, Budget
 - **Legal:** Liability, Privacy Laws, data protection, ...
-**Conway's Law:** Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations. (E.g. a system built by 5 teams will consist of 5 large building blocks)
+**Conway's Law:** ==Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations==. (E.g. a system built by 5 teams will consist of 5 large building blocks)
 
 #### Product Related Factors
 - **Functional Requirements**: Describe desired functionalities
