@@ -200,7 +200,12 @@ d) Virtual
 
 <details> <summary>Click to show answer</summary> <p>a, b, c</p> </details>
 
-# 22 - 
+# 22 - Which of the following qualities can most likely be improved by using a layered architecture? Select one option (1 point)
+
+a) Runtime efficiency (performance)
+b) Flexibility in modifying or changing the system
+c) Flexibility at runtime (configurability)
+d) Non-repu
 
 # 23 -
 
