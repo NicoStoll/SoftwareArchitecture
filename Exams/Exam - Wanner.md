@@ -26,8 +26,8 @@
 
 - **Standard Interface** - JDBC (JDBC provides a standard interface for database access in Java. The interface is defined externally by the JDBC API, which both the caller and callee adhere to)
 - **Independent Interface** - Microservice Architecture with API Gateway (In a microservice architecture, different services may have their own interfaces. An API Gateway can act as an adapter that connects these independent interfaces, providing a unified point of entry) 
-- **Provided Interface** - 
-- **Required Interface** - 
+- **Provided Interface** - TomTom Navigation API (TomTom provides a defined interface for embedding maps and interacting with map data. Developers use this provided interface to integrate it into their applications)
+- **Required Interface** - Inversion of Control (IoC) Containers in Spring Framework (In Spring the caller defined the required interface or contract, which the framework then adheres to by injecting the appropriate dependencies)
 
 # Exercise 3 (12 Points)
 

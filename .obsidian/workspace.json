@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Exams/iSAQB - Mock Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Exams/iSAQB - Mock Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Exams/iSAQB - Mock Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/Exam - Wanner.md"
+                "file": "Exams/iSAQB - Mock Exam.md"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "e7f9cdf0ca3a7051",
   "lastOpenFiles": [
-    "Lectures/Software Architecture/Software Architecture.md",
     "Exams/Exam - Wanner.md",
+    "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
