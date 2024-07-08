@@ -307,14 +307,51 @@ d) Tradeoffs between conflicting quality requirements should be explicit decisio
 
 <details> <summary>Click to show answer</summary> <p>a, b, d</p> </details>
 
-# 34 - 
+# 34 - Which of the following statements are typical reasons for maintaining adequate architecture documentation and which are not typical reasons? (2 points)
 
-# 35 - 
+a) To support onboarding of new developers
+b) To support the automated testing approach of the system
+c) To support the work of distributed teams
+d)  to assist in future enhancements of the product
+e) to conform to regulatory or legal constraints
+f) to ensure that developers have enough work to do
 
-# 36 - 
+<details> <summary>Click to show answer</summary> <p>a, c, d, e</p> </details>
 
-# 37 - 
+# 35 - Which of the following pairs of qualities are usually in conflict to each other, and which are not? (1 point)
 
-# 38 - 
+a) Understandability - Readability
+b) Usability - Security
+c) Runtime configurability - Robustness
+d) Security - Legal compliance
+
+<details> <summary>Click to show answer</summary> <p> b, c</p> </details>
+# 36 - ISO 25010 provides generic quality characteristics for software systems. How can quality requirements concerning these characteristics be made more concrete? Pick the two best alternatives. (1 point)
+
+a) By developing UI prototypes
+b) By defining explicit interfaces
+c) By discussing or writing scenarios
+d) by creating automated tests
+e) by creating a quality tree
+
+<details> <summary>Click to show answer</summary> <p>c, e</p> </details>
+
+# 37 - Which of the following alternatives are most suitable for supporting a qualitative analysis of your software architecture? Pick the FOUR best alternatives. (2 points)
+
+a) Quantitative dependency analysis
+b) Architecture models
+c) Quality scenarios
+d) Team size
+e) Log files
+f) Organizational structure
+
+<details> <summary>Click to show answer</summary> <p>a, b, c, e</p> </details>
+
+# 38 - You try to analyze your architecture quantitatively. Which are the two most appropriate indicators for architectural problem areas? (2 points)
+
+a) High coupling of components
+b) Names of public methods do not reflect their purpose
+c) Missing comments
+d) Clusters of er
 
 # 39 - 
