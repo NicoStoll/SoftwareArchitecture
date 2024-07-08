@@ -55,7 +55,18 @@
 
 ## a) What is the 'System Context' and what are the sources that contribute to the influencing factors?
 
-## b) What is Conways Law? Also give an example for it.
+![[SystemContext.png]]
+### System Context
+= the part of reality that is relevant for the requirements of a system
 
+1. **People** - (groups of) stakeholders
+2. **Systems in operation** - other technical systems/hardware
+3. **Events** - technical/physical
+4. **Processes** - technical/physical/business
+5. **Documents** - laws, standards, system documentation
+## b) What is Conway's Law? Also give an example for it.
 
+**Conway's Law:** Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations. (E.g. a system built by 5 teams will consist of 5 large building blocks)
 ## c) Draw a sketch of the Quality model from ISO 25010 with at least 3 quality characteristics (first level) and quality attributes (second level)
+
+![[Quality_ISO25010.png]]

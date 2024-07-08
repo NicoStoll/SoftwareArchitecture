@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8edf6a13c3873d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/Exam - Wanner.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
               }
             }
           }
@@ -196,14 +209,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aca0532928988020",
+  "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
-    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Exams/Exam - Wanner.md",
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/Software Architecture/Software Architecture.md",
+    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+    "Lectures/Documentation Communication/arc42.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Architecture Formation.md",
-    "Lectures/Software Architecture/Software Architecture.md",
     "Exams/iSAQB - Mock Exam.md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
@@ -211,10 +229,8 @@
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Exams/Exam - Deininger.md",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
@@ -224,10 +240,7 @@
     "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
-    "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
-    "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Assets/StrategyPattern.png",
-    "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
     "Assets/ObserverPattern.png",
     "Assets/QualityTreeExample_arc42.png",
     "Assets/QualityScenario.png",
