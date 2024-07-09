@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architect/Tasks - Software Architect.md",
+                "file": "Exams/Exam - Wanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md",
+                "file": "Exams/Exam - Wanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md",
+                "file": "Exams/Exam - Wanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architecture/Architectural Domains.md"
+                "file": "Exams/Exam - Wanner.md"
               }
             }
           }
@@ -196,13 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8edf6a13c3873d8",
+  "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/Software Architect/Tasks - Software Architect.md",
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Exams/Exam - Wanner.md",
     "Exams/Exam - Deininger.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
@@ -214,9 +217,7 @@
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
-    "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
