@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8edf6a13c3873d8",
+  "active": "8f82625aacd9223c",
   "lastOpenFiles": [
-    "Exams/Exam - Wanner.md",
+    "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/Software Architecture/Software Architecture.md",
+    "Lectures/DesignPrinciples/Design Principles Overview.md",
+    "Exams/Exam - Wanner.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
@@ -221,9 +225,6 @@
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
     "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
-    "Lectures/Architectural Patterns/Architecture Patterns.md",
-    "Lectures/Architectural Patterns/Clean Architecture.md",
-    "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
