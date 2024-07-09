@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8edf6a13c3873d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f82625aacd9223c",
             "type": "leaf",
             "state": {
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+                "file": "Exams/Exam - Wanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+                "file": "Exams/Exam - Wanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md"
+                "file": "Exams/Exam - Wanner.md"
               }
             }
           }
@@ -196,8 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8edf6a13c3873d8",
+  "active": "4fc138b549785be0",
   "lastOpenFiles": [
+    "Execises/ADR.md",
+    "Lectures/Documentation Communication/Architecture Documentation.md",
+    "Execises/arc42 Exercise.md",
+    "Lectures/Design Patterns/Structural Patterns/Composite.md",
+    "Lectures/Documentation Communication/arc42.md",
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Exams/Exam - Wanner.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
@@ -218,12 +212,6 @@
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
-    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
-    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
-    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
-    "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
-    "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
