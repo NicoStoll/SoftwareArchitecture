@@ -9,9 +9,21 @@
 
 ### The application described above is based on a layered architecture with a common data model used by all layers. What are the characteristics of such an architecture? (Name at least two characteristics)
 
+- each layer encapsulates detail, and may provide an abstraction
+- provides a service to the layer above
+- never depends on a layer above
+- **strict layering**: dependencies only between adjacent layers
 
 ### Please indicate the advantages and disadvantages of the above architecture (at least two pros and cons)
 
+Pros:
+- layers are independent (development - distribution of tasks)
+- implementations are interchangeable
+- no circular dependencies
+
+Cons:
+- additional overhead
+- some changes may require changes in all layers
 
 ## 1.2 Architecture Evaluation (10 Points)
 
@@ -19,11 +31,11 @@
 
 | Package        | Fan-in | Fan-out | Abstractness | Instability | Distance |
 | -------------- | ------ | ------- | ------------ | ----------- | -------- |
-| main           |        |         |              |             |          |
-| gui            |        |         |              |             |          |
-| domain.service |        |         |              |             |          |
-| persistence    |        |         |              |             |          |
-| common.model   |        |         |              |             |          |
+| main           | 0      | 1       | 0            |             |          |
+| gui            | 1      | 1       | 0            |             |          |
+| domain.service | 1      | 1       | 0            |             |          |
+| persistence    | 1      | 3       |              |             |          |
+| common.model   | 5      | 0       |              |             |          |
 
 ### According to the metrics: Which is the most critical package, i.e. the one most resilient to change?
 
