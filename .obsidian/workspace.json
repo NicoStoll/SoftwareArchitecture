@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Software Architecture/Architectural Domains.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Software Architecture/Architectural Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Software Architecture/Architectural Domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/Exam - Wanner.md"
+                "file": "Lectures/Software Architecture/Architectural Domains.md"
               }
             }
           }
@@ -198,13 +198,14 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/Software Architecture/Architecture Formation.md",
+    "Lectures/Software Architecture/Software Architecture.md",
+    "Exams/Exam - Wanner.md",
     "Exams/Exam - Deininger.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
-    "Exams/Exam - Wanner.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
@@ -216,7 +217,6 @@
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/Software Architecture/Architectural Domains.md",
-    "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
