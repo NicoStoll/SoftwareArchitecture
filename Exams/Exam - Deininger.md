@@ -162,6 +162,15 @@ Aspect Oriented Programming (AOP) (with AspectJ in Java)
 
 # 1.6 Architecture Quality (8 Points)
 
+A quality tree is a visual representation of the quality attributes of a system, helping to organize and prioritize the various quality requirements. It breaks down high-level quality attributes into more detailed and specific aspects, facilitating a clear understanding and assessment of the systems behavior.
+
+Key Component:
+- Root/Intermedia Nodes: attributes or sub-categories (Performance, Security, Response Time, Throughput, ...)
+- Lead Nodes: Concrete Scenarios or requirements related to the upper nodes
+	- Usage: Behavior under normal runtime
+	- Exploratory: Behavior under extreme situations
+	- Growth: Maintaining and evolving the system
+
 ### Give an example of a 'Growth Scenario' for the previous application
 
 
