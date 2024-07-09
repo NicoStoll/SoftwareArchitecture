@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Exam - Deininger.md",
+                "file": "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/Exam - Deininger.md",
+                "file": "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/Exam - Deininger.md"
+                "file": "Lectures/Design Patterns/Creational Patterns/Factory Method.md"
               }
             }
           }
@@ -196,10 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8edf6a13c3873d8",
+  "active": "8f82625aacd9223c",
   "lastOpenFiles": [
-    "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Exams/Exam - Deininger.md",
+    "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
+    "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
+    "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
@@ -222,8 +225,6 @@
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/One Page Vision.md",
-    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
-    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",

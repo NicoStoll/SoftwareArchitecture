@@ -80,32 +80,41 @@ Dependency Injection (DI)
 
 
 ```java
-package domain.service.ports.out
+package domain.service.ports.out;
 public interface Repository { 
 	
 }
 
 
-package domain.service 
+package domain.service;
 public class CompanyService { 
 
+	private final Repository repository;
+
+	public CompanyService(final Repository repository) {
+		this.repository = repsority;
+	}
 }
 
-package persistence 
-import 
-public class SQLRepository { 
+package persistence;
+
+import domain.service.ports.out.Repository;
+public class SQLRepository implements Repository { 
 
 	
 }
 
-package main 
-import 
-import 
-import 
+package main;
+import domain.service.ports.out.Repository;
+import domain.service.ComparnyService;
+import persistence;
 
 public class Main { 
 	public static void main(String[] args){ 
-	
+
+		Repository repo = new 
+			SQLRepository("jdbc:sqlite:database/company.db");
+		CompanyService service = new CompanyService(repo);
 	} 	
 }
 ```
