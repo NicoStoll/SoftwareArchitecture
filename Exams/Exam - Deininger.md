@@ -124,19 +124,29 @@ public class Main {
 
 ### Main ideas
 
+- **Ubiquitous Language** - identify the Business Domain, comprise a Domain Dictionary and Build the Domain model from that, use the Domain Model as the basis for your design
+- **Strategic Design** - The high-level organization of the system, which includes identifying the main components and their interactions. This often involves dividing the system into Bounded Contexts and mapping their relationships
+- **Tactical Design** - The detailed design within a Bounded Context, including entities, value objects, aggregates, repositories, factories and services.
 
 ### Architecture compliance
 
+- **Ubiquitous Language** - the refactored architecture uses domain-specific terminology in class names and methods, promoting a clear and consistent language
+- **Strategic Design** - The separation of concerns in the architecture aligns with the concept of Bounded Context
+- **Tactical Design** - The use of interfaces and dependency injection promotes flexibility and adheres to DDD principles.
 
 ## 1.5 Cross-cutting concerns (5 points)
 
 ### What are cross-cutting concerns in general and what are the challenges?
 
+Cross-Cutting concerns are functionalities that are generally needed in many or all places in a system. This means that the source code is scattered over the whole application. 
 
 ### State a possible use case for a cross-cutting concern in the previous application.
 
 
+
 ### Name one programmatic way in which cross-cutting concerns are being implemented.
+
+Aspect Oriented Programming (AOP) (with AspectJ in Java)
 
 # 1.6 Architecture Quality (8 Points)
 
