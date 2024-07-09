@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/Exam - Wanner.md"
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md"
               }
             }
           }
@@ -184,8 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc138b549785be0",
+  "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Exams/Exam - Deininger.md",
+    "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
+    "Exams/Exam - Wanner.md",
     "Execises/ADR.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
     "Execises/arc42 Exercise.md",
@@ -193,12 +196,10 @@
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
-    "Exams/Exam - Wanner.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Software Architecture.md",
-    "Exams/Exam - Deininger.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
@@ -209,7 +210,6 @@
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
-    "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Assets/Pasted image 20240702192609.png",
