@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md"
+                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md"
               }
             }
           }
@@ -198,9 +198,12 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/Architectural Patterns/Dependency Inversion.md",
+    "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
+    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
+    "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
+    "Lectures/Architectural Patterns/Dependency Inversion.md",
+    "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Exams/Exam - Deininger.md",
@@ -209,11 +212,8 @@
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
-    "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
-    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
-    "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
