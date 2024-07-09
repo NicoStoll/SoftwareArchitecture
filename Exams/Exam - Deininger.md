@@ -46,6 +46,8 @@ The common model has a Distance of -1, indicating it is the least balanced and m
 - **Encapsulation and Modularity** - Ensure internals are well encapsulated, expose only what is necessary
 - **Extensive Testing** - Implement comprehensive unit tests as well as integration tests ensuring every works as it should
 - **Clear documentation** - Since this package is used in many different places it is important to provide clear documentation of public API and the intent behind design decisions
+- **Design for extensibility**
+
 ## 1.3 Revision towards a 'Clean Architecture' (20 Points)
 
 ### The above application is to be redesigned into a “clean (onion| ports & adapters) architecture” as discussed in the lecture. First, in the (onion) diagram below, enter which of the previous packages should be in which (onion) layer (note that a layer can contain more than one package).
@@ -67,14 +69,21 @@ public class CompanyService {
 
 ### This contradicts the idea of a clean architecture. Why?
 
+Dependency Inversion Principle (DIP): High level modules should not depend on low-level implementations
+
 ### Which design principle can be applied to solve this issue?
+
+Dependency Injection (DI)
 
 
 ### Sketch a solution to this problem in Java code (only the  relationsship between CompanyService and SQLRepository has to be refactored and only the relevant code is required).
 
 
 ```java
-package public { … }
+package domain.service.ports.out
+public interface Repository { 
+	
+}
 
 
 package domain.service 
@@ -85,7 +94,8 @@ public class CompanyService {
 package persistence 
 import 
 public class SQLRepository { 
-	… 
+
+	
 }
 
 package main 
