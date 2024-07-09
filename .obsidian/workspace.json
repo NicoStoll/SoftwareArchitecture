@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/DesignPrinciples/Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md"
+                "file": "Lectures/DesignPrinciples/Principles.md"
               }
             }
           }
@@ -186,6 +186,9 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/SOLID.md",
+    "Lectures/Additional Design Considerations/Designing Interfaces.md",
+    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Exams/Exam - Deininger.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Exams/Exam - Wanner.md",
@@ -209,9 +212,6 @@
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
-    "Lectures/Documentation Communication/UML/UML to Java Code.md",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
-    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
