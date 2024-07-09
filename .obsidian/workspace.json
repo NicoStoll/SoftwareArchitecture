@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/Architecture Documentation.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
               }
             }
           }
@@ -186,6 +186,9 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+    "Lectures/Documentation Communication/One Page Vision.md",
+    "Lectures/Documentation Communication/Architecture Documentation.md",
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
@@ -203,15 +206,12 @@
     "Exams/Exam - Deininger.md",
     "Exams/Exam - Wanner.md",
     "Execises/ADR.md",
-    "Lectures/Documentation Communication/Architecture Documentation.md",
     "Execises/arc42 Exercise.md",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
-    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
