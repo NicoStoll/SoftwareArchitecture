@@ -173,6 +173,13 @@ Key Component:
 
 ### Give an example of a 'Growth Scenario' for the previous application
 
+Type: Growth
+
+Trigger: Implementing Multi-Factor Authentication (MFA) due to security concerns. Because of data breaches implementation of additional security measures is prompted.
+
+Expected System Response: Introduce MFA for user logins, ensuring that sensitive operations require verification via email or SMS code, enhancing user account security.
+
+Priority: High
 
 ### What is the advantage of using a quality tree to build such a scenario?
 
@@ -184,6 +191,14 @@ Key Component:
 
 ### How could the Martin-Metrics help in designing such a scenario?
 
+**Stability:** Ensuring low instability means the modules are less likely to break, when changes are made. For the growth scenario, ensuring that Services have a low stability would help in safely adding new features like MFA without affecting existing functionalities.
+
+**Abstractness:** Designing the system with a higher level of abstractness in key modules allows for easier extension. For the growth scenario, having a well-defined interface for Authentication that can be implemented for MFA or other form can facilitate growth
+
+**Distance from Main Sequence:** Measures the balance between abstractness and stability. For the growth scenario, ensuring the Services are well balanced between abstractness and stability ensures ease of extension and integration.
 
 ### What quality aspect(s) does your scenario cover?
+
+Security
+- Authenticity
 
