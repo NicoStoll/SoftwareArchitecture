@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md"
               }
             }
           }
@@ -198,9 +198,10 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
-    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
@@ -216,7 +217,6 @@
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/DesignPrinciples/Principles.md",
-    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Exams/Exam - Wanner.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
