@@ -138,11 +138,23 @@ public class Main {
 
 ### What are cross-cutting concerns in general and what are the challenges?
 
-Cross-Cutting concerns are functionalities that are generally needed in many or all places in a system. This means that the source code is scattered over the whole application. 
+Cross-cutting concerns are functionalities that affect multiple parts of a system and are typically needed in many places within an application. These concerns cannot be neatly encapsulated in a single module or layer, because they cut across the system's primary decomposition.
 
+Examples
+- **Persistence**
+- **Logging**
+- **Authentication**
+- **Authorization**
+- **Error Handling**
+
+Challenges:
+- **Code Duplication:** The same functionality needs to be implemented in multiple places
+- **Maintainability**: Changes to cross-cutting concerns require updating all places where to code is used
+- **Consistency**
+- **Tight Coupling**: Business logic can become tightly coupled with these concerns, making the system harder to understand and modify
 ### State a possible use case for a cross-cutting concern in the previous application.
 
-
+Persistence, Logging
 
 ### Name one programmatic way in which cross-cutting concerns are being implemented.
 

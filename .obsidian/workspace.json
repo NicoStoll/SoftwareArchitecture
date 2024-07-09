@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Exams/Exam - Deininger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+                "file": "Exams/Exam - Deininger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md"
+                "file": "Exams/Exam - Deininger.md"
               }
             }
           }
@@ -197,10 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f82625aacd9223c",
+  "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
-    "Lectures/DesignApproaches/Domain Driven Design.md",
+    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Exams/Exam - Deininger.md",
+    "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
@@ -212,7 +213,6 @@
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
-    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
@@ -224,7 +224,6 @@
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
-    "Lectures/Documentation Communication/Architecture Documentation.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
