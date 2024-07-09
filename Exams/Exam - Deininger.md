@@ -176,7 +176,11 @@ Key Component:
 
 ### What is the advantage of using a quality tree to build such a scenario?
 
-
+- **Clarity and structure:** Clear and structured way to identify and document quality attributes, breaking them down into detailed and actionable scenarios.
+- **Prioritization:** It helps in prioritizing quality attributes based on their importance and impact on the system, ensuring that critical aspects are addressed first.
+- **Comprehensive Coverage:** By systematically categorizing attributes and scenarios, it ensures comprehensive coverage of all relevant quality concerns.
+- **Communication:** Better communication among stakeholders, including developers, business analysist, and domain experts.
+- **Consistency:** Attributes implemented across the whole system
 
 ### How could the Martin-Metrics help in designing such a scenario?
 
