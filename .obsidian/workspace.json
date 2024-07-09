@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md",
+                "file": "Lectures/DesignPrinciples/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Software Architecture/Software Architecture.md"
+                "file": "Lectures/DesignPrinciples/SOLID.md"
               }
             }
           }
@@ -186,13 +186,14 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Exams/Exam - Deininger.md",
     "Exams/Exam - Wanner.md",
@@ -204,7 +205,6 @@
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
-    "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
