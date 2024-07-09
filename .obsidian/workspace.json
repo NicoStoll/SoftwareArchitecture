@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Exams/Exam - Deininger.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
+                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
+                "file": "Exams/Exam - Deininger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md",
+                "file": "Exams/Exam - Deininger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/Coupling - Types.md"
+                "file": "Exams/Exam - Deininger.md"
               }
             }
           }
@@ -197,15 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f82625aacd9223c",
+  "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Exams/Exam - Wanner.md",
     "Lectures/DesignPrinciples/Principles.md",
+    "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
-    "Exams/Exam - Wanner.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
