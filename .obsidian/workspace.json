@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exams/Exam - Wanner.md",
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exams/Exam - Wanner.md"
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md"
               }
             }
           }
@@ -198,14 +198,14 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Exams/Exam - Deininger.md",
+    "Exams/Exam - Wanner.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Software Architecture.md",
-    "Exams/Exam - Deininger.md",
-    "Exams/Exam - Wanner.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
