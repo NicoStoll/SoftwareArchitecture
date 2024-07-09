@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
+                "file": "Lectures/Software Architecture/Software Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/iSAQB-Views.md"
+                "file": "Lectures/Software Architecture/Software Architecture.md"
               }
             }
           }
@@ -198,6 +198,8 @@
   },
   "active": "e8edf6a13c3873d8",
   "lastOpenFiles": [
+    "Lectures/DesignApproaches/Domain Driven Design.md",
+    "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
@@ -222,8 +224,6 @@
     "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
