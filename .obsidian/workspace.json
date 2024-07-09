@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md"
+                "file": "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/Additional Design Considerations/Designing Interfaces.md",
     "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
@@ -204,14 +206,12 @@
     "Lectures/Software Architecture/Architecture Formation.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
-    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
-    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
