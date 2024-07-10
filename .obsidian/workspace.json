@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md"
               }
             }
           }
@@ -187,6 +187,8 @@
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
@@ -210,8 +212,6 @@
     "Exams/Exam - Wanner.md",
     "Execises/ADR.md",
     "Execises/arc42 Exercise.md",
-    "Lectures/Design Patterns/Structural Patterns/Composite.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
