@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Architectural Patterns/Clean Architecture.md",
+                "file": "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md",
+                "file": "Lectures/Documentation Communication/arc42.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignPrinciples/Principles.md"
+                "file": "Lectures/Documentation Communication/arc42.md"
               }
             }
           }
@@ -186,9 +186,17 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/Documentation Communication/UML/UML to Java Code.md",
+    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
+    "Lectures/Documentation Communication/UML/Package Diagram.md",
+    "Lectures/Documentation Communication/UML/Deployment Diagram.md",
+    "Lectures/Documentation Communication/UML/Activity Diagram.md",
+    "Lectures/Documentation Communication/UML/Class Diagram.md",
+    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
+    "Lectures/Architectural Patterns/Clean Architecture.md",
+    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
@@ -204,14 +212,6 @@
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
-    "Lectures/Documentation Communication/arc42.md",
-    "Lectures/Documentation Communication/UML/Sequence Diagram.md",
-    "Lectures/Documentation Communication/UML/Package Diagram.md",
-    "Lectures/Additional Design Considerations/Designing Interfaces.md",
-    "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
-    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
-    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
-    "Exams/Exam - Deininger.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
