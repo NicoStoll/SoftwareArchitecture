@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Quality.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
               }
             }
           }
@@ -186,8 +186,9 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
+    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
+    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/Documentation Communication/One Page Vision.md",
     "Lectures/Documentation Communication/Architecture Documentation.md",
@@ -211,7 +212,6 @@
     "Execises/arc42 Exercise.md",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
-    "Lectures/DesignApproaches/Domain Driven Design.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
