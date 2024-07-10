@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md",
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Documentation Communication/arc42.md"
+                "file": "Lectures/DesignApproaches/iSAQB-Views.md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/DesignApproaches/View-Based Architecture Development.md",
+    "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
     "Lectures/Documentation Communication/UML/Package Diagram.md",
@@ -210,8 +212,6 @@
     "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
     "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
-    "Lectures/Documentation Communication/One Page Vision.md",
-    "Lectures/Documentation Communication/Architecture Documentation.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
