@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md"
+                "file": "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md"
               }
             }
           }
@@ -186,11 +186,11 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
     "Lectures/Software Architect/Interfaces to other Roles.md",
     "Lectures/Software Architect/Tasks - Software Architect.md",
-    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
     "Lectures/Software Architecture/Architectural Domains.md",
     "Lectures/Software Architecture/Software Architecture.md",
     "Lectures/Software Architecture/Architecture Formation.md",
