@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md"
+                "file": "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md"
               }
             }
           }
@@ -186,6 +186,13 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/Additional Design Considerations/Designing Interfaces.md",
+    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+    "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
+    "Lectures/Architectural Patterns/Architecture Patterns.md",
+    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
+    "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
+    "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
@@ -205,13 +212,6 @@
     "Lectures/Documentation Communication/arc42.md",
     "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Lectures/Documentation Communication/UML/Sequence Diagram.md",
-    "Lectures/Documentation Communication/UML/Package Diagram.md",
-    "Lectures/Documentation Communication/UML/Deployment Diagram.md",
-    "Lectures/Documentation Communication/UML/Activity Diagram.md",
-    "Lectures/Documentation Communication/UML/Class Diagram.md",
-    "Lectures/DesignPrinciples/Principles.md",
-    "Lectures/DesignPrinciples/Design Principles Overview.md",
-    "Lectures/DesignPrinciples/Coupling - Types.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",

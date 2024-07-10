@@ -8,7 +8,7 @@
 	- Layered Architecture
 	- [[Clean Architecture]] (Onion, Hexagonal, Ports and Adapters)
 	- Pipes and Filters
-	- Micro Kernel
+	- Micro Kernel ([[Adaptable Systems]])
 
 
 ***Layered Architecture***
