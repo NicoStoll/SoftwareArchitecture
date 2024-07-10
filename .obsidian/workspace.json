@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
+                "file": "Exams/Exam - Deininger.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md",
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/Domain Driven Design.md"
+                "file": "Lectures/Architectural Patterns/Dependency Inversion.md"
               }
             }
           }
@@ -186,6 +186,17 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
+    "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
+    "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
+    "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
+    "Exams/Exam - Deininger.md",
+    "Exams/Exam - Wanner.md",
+    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
+    "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
+    "Lectures/Design Patterns/Patterns.md",
+    "Lectures/DesignApproaches/Design Methods.md",
+    "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/Documentation Communication/arc42.md",
@@ -195,23 +206,12 @@
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
-    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
     "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
     "Lectures/DesignPrinciples/SOLID.md",
     "Lectures/QualityGoalsDesignConstraints/Requirements.md",
-    "Lectures/QualityGoalsDesignConstraints/Quality Requirements.md",
-    "Lectures/QualityGoalsDesignConstraints/Influencing Factors.md",
-    "Lectures/QualityGoalsDesignConstraints/Risk + Risk Management.md",
-    "Lectures/Software Architect/Interfaces to other Roles.md",
-    "Lectures/Software Architect/Tasks - Software Architect.md",
-    "Lectures/Software Architecture/Architectural Domains.md",
-    "Lectures/Software Architecture/Software Architecture.md",
-    "Lectures/Software Architecture/Architecture Formation.md",
-    "Lectures/SoftwareArchitecture Evalutation/Architecture Trade-off Analysis Method (ATAM).md",
-    "Lectures/SoftwareArchitecture Evalutation/Quality.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",

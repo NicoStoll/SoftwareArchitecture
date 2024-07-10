@@ -40,7 +40,8 @@ public class ConcreteSubject implements Subject {
 	} 
 	
 	public void setMessage(String message) { 
-		this.message = message; notifyObservers(); 
+		this.message = message; 
+		notifyObservers(); 
 	} 
 }
 
