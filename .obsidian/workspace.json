@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dependency Inversion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md",
+                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Architectural Patterns/Dependency Inversion.md"
+                "file": "Lectures/Design Patterns/Structural Patterns/Facade.md"
               }
             }
           }
@@ -186,15 +186,18 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
-    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
+    "Lectures/Design Patterns/Structural Patterns/Composite.md",
+    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
-    "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
-    "Exams/Exam - Deininger.md",
-    "Exams/Exam - Wanner.md",
-    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
+    "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
+    "Lectures/Architectural Patterns/Dependency Inversion.md",
+    "Exams/Exam - Deininger.md",
     "Lectures/Design Patterns/Patterns.md",
+    "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
+    "Lectures/Architectural Patterns/Clean Architecture.md",
+    "Exams/Exam - Wanner.md",
     "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
@@ -206,12 +209,9 @@
     "Lectures/Documentation Communication/UML/Deployment Diagram.md",
     "Lectures/Documentation Communication/UML/Activity Diagram.md",
     "Lectures/Documentation Communication/UML/Class Diagram.md",
-    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/DesignPrinciples/Principles.md",
     "Lectures/DesignPrinciples/Design Principles Overview.md",
     "Lectures/DesignPrinciples/Coupling - Types.md",
-    "Lectures/DesignPrinciples/SOLID.md",
-    "Lectures/QualityGoalsDesignConstraints/Requirements.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
