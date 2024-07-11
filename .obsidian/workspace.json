@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md",
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/DesignApproaches/Design Methods.md"
+                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
               }
             }
           }
@@ -186,6 +186,9 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Exams/Exam - Deininger.md",
+    "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+    "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
@@ -205,13 +208,10 @@
     "Lectures/Design Patterns/Structural Patterns/Facade.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
-    "Exams/Exam - Deininger.md",
     "Exams/Exam - Wanner.md",
-    "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
-    "Lectures/Documentation Communication/arc42.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
