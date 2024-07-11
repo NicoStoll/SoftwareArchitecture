@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Design Patterns/Patterns.md",
+                "file": "Lectures/DesignApproaches/Design Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Design Patterns/Patterns.md",
+                "file": "Lectures/DesignApproaches/Design Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Design Patterns/Patterns.md",
+                "file": "Lectures/DesignApproaches/Design Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Design Patterns/Patterns.md"
+                "file": "Lectures/DesignApproaches/Design Methods.md"
               }
             }
           }
@@ -186,32 +186,32 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
-    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
-    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
-    "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
+    "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
-    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
-    "Lectures/Additional Design Considerations/Designing Interfaces.md",
-    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
+    "Lectures/Architectural Patterns/Dependency Inversion.md",
+    "Lectures/Architectural Patterns/Clean Architecture.md",
+    "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
-    "Lectures/Architectural Patterns/Architecture Patterns.md",
+    "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
     "Lectures/Architectural Patterns/Categories/Adaptable Systems.md",
+    "Lectures/Additional Design Considerations/Cross-Cutting Concerns.md",
+    "Lectures/Additional Design Considerations/Aspect Oriented Programming (AOP).md",
+    "Lectures/Design Patterns/Patterns.md",
+    "Lectures/Design Patterns/Structural Patterns/Adapter Pattern.md",
+    "Lectures/Design Patterns/Creational Patterns/Simple Factory.md",
+    "Lectures/Additional Design Considerations/Designing Interfaces.md",
+    "Lectures/Architectural Patterns/Architecture Patterns.md",
     "Lectures/Design Patterns/Structural Patterns/Facade.md",
-    "Lectures/Design Patterns/Structural Patterns/Composite.md",
     "Lectures/Design Patterns/Behavioral Patterns/Strategy.md",
     "Lectures/Design Patterns/Behavioral Patterns/Observer.md",
-    "Lectures/Architectural Patterns/Dependency Inversion.md",
     "Exams/Exam - Deininger.md",
-    "Lectures/Design Patterns/Patterns.md",
-    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Exams/Exam - Wanner.md",
     "Lectures/DesignApproaches/Design Methods.md",
     "Lectures/DesignApproaches/Domain Driven Design.md",
     "Lectures/DesignApproaches/iSAQB-Views.md",
     "Lectures/DesignApproaches/View-Based Architecture Development.md",
     "Lectures/Documentation Communication/arc42.md",
-    "Lectures/Documentation Communication/UML/UML to Java Code.md",
     "Assets/Pasted image 20240702192609.png",
     "Assets/IEEE_42010_2011.png",
     "Exams",
