@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Exams/Exam - Deininger.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Exams/Exam - Deininger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
+                "file": "Exams/Exam - Deininger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md"
+                "file": "Exams/Exam - Deininger.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "8f82625aacd9223c",
   "lastOpenFiles": [
+    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Exams/Exam - Deininger.md",
     "Lectures/SoftwareArchitecture Evalutation/Martin Metrics.md",
     "Lectures/DesignApproaches/Design Methods.md",
@@ -193,7 +194,6 @@
     "Lectures/Design Patterns/Creational Patterns/Factory Method.md",
     "Lectures/Design Patterns/Creational Patterns/Dependency Injection.md",
     "Lectures/Architectural Patterns/Dependency Inversion.md",
-    "Lectures/Architectural Patterns/Clean Architecture.md",
     "Lectures/Architectural Patterns/Categories/Distributed Systems.md",
     "Lectures/Architectural Patterns/Categories/Interactive Systems.md",
     "Lectures/Architectural Patterns/Categories/Mud-to-Structure.md",
